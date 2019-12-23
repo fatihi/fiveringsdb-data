@@ -241,5 +241,14 @@
         "released_at": "2019-12-06",
         "ffg_id": "L5C25",
         "cycle_id": "clan-packs"
+    },
+    {
+        "id": "clan-war",
+        "name": "Clan War",
+        "position": 2,
+        "size": 82,
+        "released_at": "2020-02-01",
+        "ffg_id": "L5C28",
+        "cycle_id": "premium-expansions"
     }
 ]
