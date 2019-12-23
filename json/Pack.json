@@ -9,33 +9,6 @@
         "cycle_id": "core"
     },
     {
-        "id": "gen-con-2017",
-        "name": "Gen Con 2017",
-        "position": 1,
-        "size": 9,
-        "released_at": "2017-08-17",
-        "ffg_id": null,
-        "cycle_id": "promos"
-    },
-    {
-        "id": "battle-for-the-stronghold-kit",
-        "name": "Battle for the Stronghold Kit",
-        "position": 2,
-        "size": 7,
-        "released_at": null,
-        "ffg_id": null,
-        "cycle_id": "promos"
-    },
-    {
-        "id": "2018-season-one-stronghold-kit",
-        "name": "2018 Season One Stronghold Kit",
-        "position": 3,
-        "size": 13,
-        "released_at": null,
-        "ffg_id": null,
-        "cycle_id": "promos"
-    },
-    {
         "id": "tears-of-amaterasu",
         "name": "Tears of Amaterasu",
         "position": 1,
@@ -211,7 +184,7 @@
         "name": "Justice for Satsume",
         "position": 3,
         "size": 22,
-        "released_at": "2019-08-01",
+        "released_at": "2019-08-23",
         "ffg_id": "L5C21",
         "cycle_id": "inheritance"
     },
@@ -220,7 +193,7 @@
         "name": "The Children of Heaven",
         "position": 4,
         "size": 22,
-        "released_at": "2019-09-01",
+        "released_at": "2019-09-20",
         "ffg_id": "L5C22",
         "cycle_id": "inheritance"
     },
@@ -229,7 +202,7 @@
         "name": "A Champion's Foresight",
         "position": 5,
         "size": 22,
-        "released_at": "2019-10-01",
+        "released_at": "2019-10-25",
         "ffg_id": "L5C23",
         "cycle_id": "inheritance"
     },
@@ -238,7 +211,7 @@
         "name": "Shoju's Duty",
         "position": 6,
         "size": 20,
-        "released_at": "2019-11-01",
+        "released_at": "2019-11-29",
         "ffg_id": "L5C24",
         "cycle_id": "inheritance"
     },
@@ -247,7 +220,7 @@
         "name": "The Emperor's Legion",
         "position": 5,
         "size": 28,
-        "released_at": "2019-09-01",
+        "released_at": "2019-11-01",
         "ffg_id": "L5C27",
         "cycle_id": "clan-packs"
     },
@@ -256,7 +229,7 @@
         "name": "Defenders of Rokugan",
         "position": 6,
         "size": 32,
-        "released_at": "2019-10-01",
+        "released_at": "2019-11-08",
         "ffg_id": "L5C26",
         "cycle_id": "clan-packs"
     },
@@ -265,7 +238,7 @@
         "name": "Seekers of Wisdom",
         "position": 7,
         "size": 28,
-        "released_at": "2019-11-01",
+        "released_at": "2019-12-06",
         "ffg_id": "L5C25",
         "cycle_id": "clan-packs"
     }
