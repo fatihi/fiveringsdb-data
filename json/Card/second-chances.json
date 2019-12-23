@@ -11,7 +11,7 @@
         ],
         "clan": "neutral",
         "cost": null,
-        "deck_limit": 0,
+        "deck_limit": 1,
         "element": [],
         "fate": null,
         "glory": null,
