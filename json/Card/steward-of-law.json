@@ -20,7 +20,7 @@
         "influence_cost": 1,
         "influence_pool": null,
         "is_banned": false,
-        "is_restricted": true,
+        "is_restricted": false,
         "military": "1",
         "military_bonus": null,
         "name": "Steward of Law",

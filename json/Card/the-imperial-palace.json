@@ -20,7 +20,7 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
-        "is_restricted": false,
+        "is_restricted": true,
         "military": null,
         "military_bonus": null,
         "name": "The Imperial Palace",

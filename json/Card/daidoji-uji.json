@@ -14,7 +14,7 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
-        "is_restricted": true,
+        "is_restricted": false,
         "military": "6",
         "military_bonus": null,
         "name": "Daidoji Uji",
@@ -25,7 +25,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "While this character is honored, you may play each character in your provinces as if it were in your hand, reducing its cost by 1.",
+        "text": "While this character is honored, you may play each character in your provinces as if it were in your hand.\n<i>Errata from the Imperial Law (2020-01-06)</i>",
         "traits": [
             "bushi",
             "daimyo",

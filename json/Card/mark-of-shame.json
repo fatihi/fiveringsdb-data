@@ -20,7 +20,7 @@
         "influence_cost": 1,
         "influence_pool": null,
         "is_banned": false,
-        "is_restricted": false,
+        "is_restricted": true,
         "military": null,
         "military_bonus": "-0",
         "name": "Mark of Shame",

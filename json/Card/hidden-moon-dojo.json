@@ -13,7 +13,7 @@
         "id": "hidden-moon-dojo",
         "influence_cost": null,
         "influence_pool": null,
-        "is_banned": false,
+        "is_banned": true,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,
