@@ -13,6 +13,7 @@
         "id": "hisu-mori-toride-lion",
         "influence_cost": null,
         "influence_pool": 9,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,

@@ -13,6 +13,7 @@
         "id": "high-house-of-light",
         "influence_cost": null,
         "influence_pool": 7,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,

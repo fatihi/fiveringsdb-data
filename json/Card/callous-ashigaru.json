@@ -19,6 +19,7 @@
         "id": "callous-ashigaru",
         "influence_cost": 2,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": "+2",

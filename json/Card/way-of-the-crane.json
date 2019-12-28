@@ -13,6 +13,7 @@
         "id": "way-of-the-crane",
         "influence_cost": null,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,

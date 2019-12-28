@@ -19,6 +19,7 @@
         "id": "guardian-of-virtue",
         "influence_cost": 1,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": "2",
         "military_bonus": null,

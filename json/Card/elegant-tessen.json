@@ -19,6 +19,7 @@
         "id": "elegant-tessen",
         "influence_cost": 0,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": "+1",

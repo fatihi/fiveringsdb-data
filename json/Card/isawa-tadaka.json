@@ -13,6 +13,7 @@
         "id": "isawa-tadaka",
         "influence_cost": null,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": true,
         "military": "5",
         "military_bonus": null,
