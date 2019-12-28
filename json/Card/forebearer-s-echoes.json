@@ -1,4 +1,3 @@
-
 [
     {
         "allowed_clans": [
@@ -20,6 +19,7 @@
         "id": "forebearer-s-echoes",
         "influence_cost": 1,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,

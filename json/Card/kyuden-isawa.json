@@ -13,6 +13,7 @@
         "id": "kyuden-isawa",
         "influence_cost": null,
         "influence_pool": 10,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,
@@ -24,7 +25,7 @@
         "side": "province",
         "strength": null,
         "strength_bonus": "+1",
-        "text": "<b>Action:</b> During a conflict, bow this stronghold – play a <em>Spell</em> event from your conflict discard pile as if it were in your hand. Remove that event from the game.",
+        "text": "<b>Action:</b> During a conflict, bow this stronghold and discard a <em>Spell</em> event from your hand – play a <em>Spell</em> event from your conflict discard pile as if it were in your hand. Remove that event from the game.\n<i>Errata from the Imperial Law (2020-01-06)</i>",
         "traits": [
             "library",
             "palace"

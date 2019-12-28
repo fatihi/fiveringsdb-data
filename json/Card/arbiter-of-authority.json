@@ -19,6 +19,7 @@
         "id": "arbiter-of-authority",
         "influence_cost": 2,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": "0",
         "military_bonus": null,

@@ -19,6 +19,7 @@
         "id": "seal-of-the-phoenix",
         "influence_cost": 1,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": "+0",

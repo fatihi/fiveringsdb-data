@@ -19,6 +19,7 @@
         "id": "ikoma-anakazu",
         "influence_cost": 4,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": "3",
         "military_bonus": null,

@@ -19,6 +19,7 @@
         "id": "feral-ningyo",
         "influence_cost": 3,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": "3",
         "military_bonus": null,

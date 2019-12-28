@@ -19,6 +19,7 @@
         "id": "against-the-waves",
         "influence_cost": 1,
         "influence_pool": null,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,
@@ -30,7 +31,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> Choose a <em>Shugenja</em> character – bow or ready that character.",
+        "text": "<b>Action:</b> Choose a <em>Shugenja</em> character you control – bow or ready that character.\n<i>Errata from the Imperial Law (2020-01-06)</i>",
         "traits": [
             "spell",
             "water"

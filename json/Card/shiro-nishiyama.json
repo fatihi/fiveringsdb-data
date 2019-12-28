@@ -13,6 +13,7 @@
         "id": "shiro-nishiyama",
         "influence_cost": null,
         "influence_pool": 10,
+        "is_banned": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,
