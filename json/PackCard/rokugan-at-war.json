@@ -1,0 +1,50 @@
+[
+    {
+        "card_id": "ninkatoshi",
+        "flavor": "",
+        "illustrator": "Daniel Alekov",
+        "image_url": "",
+        "position": "4",
+        "quantity": 1
+    },
+    {
+        "card_id": "city-of-the-rich-frog",
+        "flavor": "",
+        "illustrator": "Nele-Diel",
+        "image_url": "",
+        "position": "6",
+        "quantity": 1
+    },
+    {
+        "card_id": "kakita-yoshi-2",
+        "flavor": "\"Bayushi Shoju has gone too far.\"",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "8",
+        "quantity": 3
+    },
+    {
+        "card_id": "a-season-of-war",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "14",
+        "quantity": 3
+    },
+    {
+        "card_id": "educated-heimin",
+        "flavor": "",
+        "illustrator": "Hai Hoang",
+        "image_url": "",
+        "position": "17",
+        "quantity": 3
+    },
+    {
+        "card_id": "paralyzing-delicacy",
+        "flavor": "When the guests' breaths suddenly fell short, only the cooks could be blamed.",
+        "illustrator": "Borja Pindado",
+        "image_url": "",
+        "position": "21",
+        "quantity": 3
+    }
+]
