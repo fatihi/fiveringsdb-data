@@ -31,7 +31,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Support. <i>(Another player may help pay this card's fate cost.)</i>\n<b>Reaction:</b> After an attack is declared against a province but before the province is revealed, choose an eligible province you control - move the conflict to the chosen province and reveal it, if able. You are now the defending player if you were not already.",
+        "text": "Support.\n<b>Interrupt:</b> When the effects of an event would initiate - cancel those effects and put that event on top of its owner's conflict deck.",
         "traits": [],
         "type": "event",
         "unicity": false
