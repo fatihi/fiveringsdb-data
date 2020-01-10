@@ -1,0 +1,34 @@
+[
+    {
+        "allowed_clans": [
+            "crane"
+        ],
+        "clan": "crane",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": [],
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "perfect-guest",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Perfect Guest",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> Choose another player - that player gains control of this character and cannot trigger this ability this round.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

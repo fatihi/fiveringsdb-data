@@ -80,6 +80,10 @@
         "value": "Role"
     },
     {
+        "id": "side.treaty",
+        "value": "Treaty"
+    },
+    {
         "id": "trait.academy",
         "value": "Academy"
     },
@@ -522,5 +526,9 @@
     {
         "id": "type.stronghold",
         "value": "Stronghold"
+    },
+    {
+        "id": "type.treaty",
+        "value": "Treaty"
     }
 ]

@@ -1,0 +1,42 @@
+[
+    {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": [
+            "fire"
+        ],
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "temple-of-the-thunders",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": null,
+        "military_bonus": null,
+        "name": "Temple of the Thunders",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "4",
+        "strength_bonus": null,
+        "text": "This province gets +2 strength for each claimed [element-fire] ring.\n<b>Forced Reaction:</b> After an attack is declared against this province - place 1 fate on each unclaimed [element-fire] ring.",
+        "traits": [
+            "temple"
+        ],
+        "type": "province",
+        "unicity": false
+    }
+]

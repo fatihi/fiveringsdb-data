@@ -1,0 +1,194 @@
+[
+    {
+        "card_id": "exposed-secrets",
+        "flavor": "",
+        "illustrator": "Yudong Shen",
+        "image_url": "",
+        "position": "3",
+        "quantity": 1  
+    },
+    {
+        "card_id": "second-chances",
+        "flavor": "",
+        "illustrator": "MuYoung Kim",
+        "image_url": "",
+        "position": "7",
+        "quantity": 1  
+    },
+    {
+        "card_id": "karmic-teachings",
+        "flavor": "\"What do you remember?\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "15",
+        "quantity": 1  
+    },
+    {
+        "card_id": "temple-of-daikoku",
+        "flavor": "",
+        "illustrator": "TODO",
+        "image_url": "",
+        "position": "20",
+        "quantity": 1  
+    },
+    {
+        "card_id": "temple-of-jikoju",
+        "flavor": "",
+        "illustrator": "TODO",
+        "image_url": "",
+        "position": "21",
+        "quantity": 1  
+    },
+    {
+        "card_id": "temple-of-osano-wo",
+        "flavor": "",
+        "illustrator": "TODO",
+        "image_url": "",
+        "position": "22",
+        "quantity": 1  
+    },
+    {
+        "card_id": "temple-of-shinsei-s-wisdom",
+        "flavor": "",
+        "illustrator": "Hai Hoang",
+        "image_url": "",
+        "position": "23",
+        "quantity": 1  
+    },
+    {
+        "card_id": "temple-of-the-thunders",
+        "flavor": "",
+        "illustrator": "Hai Hoang",
+        "image_url": "",
+        "position": "24",
+        "quantity": 1  
+    },
+    {
+        "card_id": "hida-secretkeeper",
+        "flavor": "\"I suffered the misfortune of witnessing my lord at work. Do not make my mistake.\"",
+        "illustrator": "Nino Vecia",
+        "image_url": "",
+        "position": "25",
+        "quantity": 3  
+    },
+    {
+        "card_id": "perfect-guest",
+        "flavor": "One with impeccable courtesy can indulge extravagant tastes.",
+        "illustrator": "Nino Vecia",
+        "image_url": "",
+        "position": "32",
+        "quantity": 3  
+    },
+    {
+        "card_id": "alchemical-laboratory",
+        "flavor": "\"I have seen no interest among the fire kami for keihi bark - except when ground to paste, which seems to bring them great delight.\" - from the journals of Agasha Shunsen",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "39",
+        "quantity": 3  
+    },
+    {
+        "card_id": "battle-aspirant",
+        "flavor": "",
+        "illustrator": "Nino Vecia",
+        "image_url": "",
+        "position": "42",
+        "quantity": 3  
+    },
+    {
+        "card_id": "isawa-pilgrim",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "46",
+        "quantity": 3  
+    },
+    {
+        "card_id": "merchant-of-curiosities",
+        "flavor": "\"How fascinating. You say it is used for eating?\"",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "56",
+        "quantity": 3  
+    },
+    {
+        "card_id": "endless-plains-skirmisher",
+        "flavor": "",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "57",
+        "quantity": 3  
+    },
+    {
+        "card_id": "forthright-ide",
+        "flavor": "",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "59",
+        "quantity": 3  
+    },
+    {
+        "card_id": "common-cause",
+        "flavor": "\"They may break our homes, but they will never break our spirit.\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "65",
+        "quantity": 3  
+    },
+    {
+        "card_id": "the-crashing-wave",
+        "flavor": "",
+        "illustrator": "Calvin Chua",
+        "image_url": "",
+        "position": "66",
+        "quantity": 3  
+    },
+    {
+        "card_id": "return-the-offense",
+        "flavor": "",
+        "illustrator": "Quintin Gleim",
+        "image_url": "",
+        "position": "71",
+        "quantity": 3  
+    },
+    {
+        "card_id": "called-to-war",
+        "flavor": "",
+        "illustrator": "Reiko Murakami",
+        "image_url": "",
+        "position": "77",
+        "quantity": 3  
+    },
+    {
+        "card_id": "appeal-to-sympathy",
+        "flavor": "",
+        "illustrator": "Isuardi Therianto",
+        "image_url": "",
+        "position": "82",
+        "quantity": 3  
+    },
+    {
+        "card_id": "bayushi-traitor",
+        "flavor": "\"I am sorry. This was my duty.\"",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "84",
+        "quantity": 3  
+    },
+    {
+        "card_id": "compelling-testimony",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "86",
+        "quantity": 3  
+    },
+    {
+        "card_id": "enlightenment",
+        "flavor": "\"The world and I are as one.\"",
+        "illustrator": "Francisco Miyara",
+        "image_url": "",
+        "position": "94",
+        "quantity": 3
+    }
+]
