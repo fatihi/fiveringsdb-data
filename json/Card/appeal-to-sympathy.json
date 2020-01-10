@@ -31,7 +31,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Support.\n<b>Interrupt:</b> When the effects of an event would initiate - cancel those effects and put that event on top of its owner's conflict deck.",
+        "text": "Support. <i>(Another player may help pay this card's fate cost.)</i>\n<b>Interrupt:</b> When the effects of an event would initiate - cancel those effects and put that event on top of its owner's conflict deck.",
         "traits": [],
         "type": "event",
         "unicity": false
