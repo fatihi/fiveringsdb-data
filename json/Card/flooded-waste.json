@@ -6,7 +6,9 @@
         "clan": "crab",
         "cost": null,
         "deck_limit": 1,
-        "element": "water",
+        "element": [
+            "water"
+        ],
         "fate": null,
         "glory": null,
         "honor": null,

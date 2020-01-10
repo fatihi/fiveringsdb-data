@@ -6,7 +6,13 @@
         "clan": "scorpion",
         "cost": null,
         "deck_limit": 1,
-        "element": "all",
+        "element": [
+            "air",
+            "earth",
+            "fire",
+            "void",
+            "water"
+        ],
         "fate": null,
         "glory": null,
         "honor": null,

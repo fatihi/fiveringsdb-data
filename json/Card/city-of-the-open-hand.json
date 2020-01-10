@@ -6,7 +6,7 @@
         "clan": "scorpion",
         "cost": null,
         "deck_limit": 1,
-        "element": null,
+        "element": [],
         "fate": 7,
         "glory": null,
         "honor": 10,
