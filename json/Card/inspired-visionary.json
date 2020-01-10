@@ -1,0 +1,36 @@
+[
+    {
+        "allowed_clans": [
+            "phoenix"
+        ],
+        "clan": "phoenix",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": [],
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "inspired-visionary",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_banned": false,
+        "is_restricted": false,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Inspired Visionary",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After the fate phase begins, bow this character and choose an attachment – shuffle that attachment into its owner's conflict deck. That player draws 1 card.",
+        "traits": [
+            "shugenja",
+            "air"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
