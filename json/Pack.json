@@ -250,5 +250,23 @@
         "released_at": null,
         "ffg_id": "L5C28",
         "cycle_id": "premium-expansions"
+    },
+    {
+        "id": "rokugan-at-war",
+        "name": "Rokugan at War",
+        "position": 1,
+        "size": 24,
+        "released_at": null,
+        "ffg_id": "L5C29",
+        "cycle_id": "dominion"
+    },
+    {
+        "id": "spreading-shadows",
+        "name": "Spreading Shadows",
+        "position": 2,
+        "size": 24,
+        "released_at": null,
+        "ffg_id": "L5C30",
+        "cycle_id": "dominion"
     }
 ]
