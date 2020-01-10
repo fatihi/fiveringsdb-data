@@ -1,0 +1,66 @@
+[
+    {
+        "card_id": "seven-strings-keep",
+        "flavor": "",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "25",
+        "quantity": 1
+    },
+    {
+        "card_id": "shinsei-s-last-hope",
+        "flavor": "",
+        "illustrator": "Frej Agelii",
+        "image_url": "",
+        "position": "26",
+        "quantity": 1
+    },
+    {
+        "card_id": "traveling-philosopher",
+        "flavor": "\"In another lifetime, her untrod path shall be a road.\" – Togashi Mitsu",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "34",
+        "quantity": 3
+    },
+    {
+        "card_id": "inspired-visionary",
+        "flavor": "\"What need have we for weapons and armor when we have the Kami at our side?\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "36",
+        "quantity": 3
+    },
+    {
+        "card_id": "dispatch-to-nowhere",
+        "flavor": "\"Your loyalty has been recognized, and you may take up your new assignment in Kinbō Province at once.\" – Soshi Shiori",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "34",
+        "quantity": 3
+    },
+    {
+        "card_id": "twilight-rider",
+        "flavor": "",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "39",
+        "quantity": 3
+    },
+    {
+        "card_id": "disciple-of-shinsei",
+        "flavor": "\"If we do not let go our fear and our desire, we will be trapped in this cycle for eternity.\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "39",
+        "quantity": 3
+    },
+    {
+        "card_id": "highlight-the-flaws",
+        "flavor": "\"Do not make the mistake of inviting a master artisan into your home.\" - Kitsuki Chiari",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "43",
+        "quantity": 3
+    }
+]
