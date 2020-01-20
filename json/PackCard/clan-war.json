@@ -16,11 +16,35 @@
         "quantity": 1  
     },
     {
+        "card_id": "slaughtered-village",
+        "flavor": "The fallen rider left with empty hands, having taken everything it had come for.",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "13",
+        "quantity": 1  
+    },
+    {
+        "card_id": "model-of-courtesy",
+        "flavor": "",
+        "illustrator": "Joshua Cairos",
+        "image_url": "",
+        "position": "14",
+        "quantity": 1  
+    },
+    {
         "card_id": "karmic-teachings",
         "flavor": "\"What do you remember?\"",
         "illustrator": "Lin Hsiang",
         "image_url": "",
         "position": "15",
+        "quantity": 1  
+    },
+    {
+        "card_id": "shadowed-alleyway",
+        "flavor": "",
+        "illustrator": "Pawel Kolomeyets",
+        "image_url": "",
+        "position": "18",
         "quantity": 1  
     },
     {
@@ -88,6 +112,14 @@
         "quantity": 3  
     },
     {
+        "card_id": "righteous-akodo",
+        "flavor": "She stopped at every shrine encountered, whispering prayers of penitence for the violence that her duty demanded",
+        "illustrator": "Nino Vecia",
+        "image_url": "",
+        "position": "41",
+        "quantity": 3  
+    },
+    {
         "card_id": "battle-aspirant",
         "flavor": "",
         "illustrator": "Nino Vecia",
@@ -128,6 +160,14 @@
         "quantity": 3  
     },
     {
+        "card_id": "kobo-ichi-kai-jujutsu",
+        "flavor": "\"Who needs a weapon? I am the weapon.\"",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "64",
+        "quantity": 3  
+    },
+    {
         "card_id": "common-cause",
         "flavor": "\"They may break our homes, but they will never break our spirit.\"",
         "illustrator": "Pavel Kolomeyets",
@@ -160,6 +200,14 @@
         "quantity": 3  
     },
     {
+        "card_id": "privileged-position",
+        "flavor": "\"Welcome, Bayushi-San, to Kenson no Gakka, where we proudly remember your history...\"",
+        "illustrator": "Paolo Puggioni",
+        "image_url": "",
+        "position": "79",
+        "quantity": 3  
+    },
+    {
         "card_id": "appeal-to-sympathy",
         "flavor": "",
         "illustrator": "Isuardi Therianto",
@@ -181,6 +229,30 @@
         "illustrator": "Felipe Gaona",
         "image_url": "",
         "position": "86",
+        "quantity": 3  
+    },
+    {
+        "card_id": "diversionary-maneuver",
+        "flavor": "",
+        "illustrator": "Dimitry Burmak",
+        "image_url": "",
+        "position": "90",
+        "quantity": 3  
+    },
+    {
+        "card_id": "hige-s-sermon",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "92",
+        "quantity": 3  
+    },
+    {
+        "card_id": "seize-the-day",
+        "flavor": "",
+        "illustrator": "Pius Piranoto",
+        "image_url": "",
+        "position": "93",
         "quantity": 3  
     },
     {
