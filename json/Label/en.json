@@ -240,6 +240,10 @@
         "value": "Goblin"
     },
     {
+        "id": "trait.heresy",
+        "value": "Heresy"
+    },
+    {
         "id": "trait.heretic",
         "value": "Heretic"
     },
