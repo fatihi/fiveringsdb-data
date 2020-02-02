@@ -96,11 +96,75 @@
         "quantity": 3
     },
     {
+        "card_id": "chancellor-s-aide",
+        "flavor": "\"I wish to see the leaves of Ide-sama's garden before they begin to fall. The regent's business with me can wait.\" - Kakita Yoshi",
+        "illustrator": "TODO",
+        "image_url": "",
+        "position": "30",
+        "quantity": 3
+    },
+    {
+        "card_id": "dazzling-duelist",
+        "flavor": "\"If you were so wise you would not have challenged me.\"",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "31",
+        "quantity": 3
+    },
+    {
         "card_id": "perfect-guest",
         "flavor": "One with impeccable courtesy can indulge extravagant tastes.",
         "illustrator": "Nino Vecia",
         "image_url": "",
         "position": "32",
+        "quantity": 3
+    },
+    {
+        "card_id": "masterpiece-painter",
+        "flavor": "",
+        "illustrator": "TODO",
+        "image_url": "",
+        "position": "33",
+        "quantity": 3
+    },
+    {
+        "card_id": "negotiation-table",
+        "flavor": "",
+        "illustrator": "Maerel Hibadita",
+        "image_url": "",
+        "position": "34",
+        "quantity": 3
+    },
+    {
+        "card_id": "inventive-mirumoto",
+        "flavor": "\"When you understand the path of the sword, your adversary can do nothing you cannot forsee.\" - Mirumoto's Niten",
+        "illustrator": "Eli Ring",
+        "image_url": "",
+        "position": "35",
+        "quantity": 3
+    },
+    {
+        "card_id": "agasha-prodigy",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "36",
+        "quantity": 3
+    },
+    {
+        "card_id": "ascetic-of-the-north-wall",
+        "flavor": "\"Be as the mountain: unyielding of body and mind.\"",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "37",
+        "quantity": 3
+    },
+    {
+        "card_id": "mindful-warrior",
+        "flavor": "\"When the day closes and Amaterasu sleeps, what will you have learned? What difference will you have made?\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "38",
         "quantity": 3
     },
     {

@@ -1,0 +1,36 @@
+[
+    {
+        "allowed_clans": [
+            "crane"
+        ],
+        "clan": "crane",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": [],
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "chancellor-s-aide",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_banned": false,
+        "is_restricted": false,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Chancellor's Aide",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Interrupt:</b> When this character leaves play, choose a player. Each opponent may give you 1 honor and choose a player - each chosen player discards 1 card from their hand.",
+        "traits": [
+            "courtier",
+            "imperial"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
