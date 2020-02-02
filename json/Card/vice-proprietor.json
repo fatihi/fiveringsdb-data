@@ -1,0 +1,36 @@
+[
+    {
+        "allowed_clans": [
+            "scorpion"
+        ],
+        "clan": "scorpion",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": [],
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "vice-proprietor",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_banned": false,
+        "is_restricted": false,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Vice Proprietor",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict in which this character is participating, dishonor it. Choose an opponent, than that opponent chooses a participating character you do not control - bow that character.",
+        "traits": [
+            "courtier",
+            "merchant"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
