@@ -616,11 +616,35 @@
         "quantity": 3
     },
     {
+        "card_id": "expert-bartering",
+        "flavor": "",
+        "illustrator": "Isuardi Therianto",
+        "image_url": "",
+        "position": "88",
+        "quantity": 3
+    },
+    {
+        "card_id": "way-of-the-open-hand",
+        "flavor": "\"In every trade, someone must give first.\" - Ide Tadaji",
+        "illustrator": "Maricela Ugarte",
+        "image_url": "",
+        "position": "89",
+        "quantity": 3
+    },
+    {
         "card_id": "diversionary-maneuver",
         "flavor": "",
         "illustrator": "Dimitry Burmak",
         "image_url": "",
         "position": "90",
+        "quantity": 3
+    },
+    {
+        "card_id": "join-the-fray",
+        "flavor": "",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "91",
         "quantity": 3
     },
     {
