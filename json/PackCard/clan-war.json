@@ -5,7 +5,7 @@
         "illustrator": "Yudong Shen",
         "image_url": "",
         "position": "3",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "second-chances",
@@ -13,7 +13,7 @@
         "illustrator": "MuYoung Kim",
         "image_url": "",
         "position": "7",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "slaughtered-village",
@@ -21,7 +21,7 @@
         "illustrator": "Imad Awan",
         "image_url": "",
         "position": "13",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "model-of-courtesy",
@@ -29,7 +29,7 @@
         "illustrator": "Joshua Cairos",
         "image_url": "",
         "position": "14",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "karmic-teachings",
@@ -37,7 +37,23 @@
         "illustrator": "Lin Hsiang",
         "image_url": "",
         "position": "15",
-        "quantity": 1  
+        "quantity": 1
+    },
+    {
+        "card_id": "strategizing",
+        "flavor": "",
+        "illustrator": "Stefano Baldo",
+        "image_url": "",
+        "position": "16",
+        "quantity": 1
+    },
+    {
+        "card_id": "fury-of-the-kami",
+        "flavor": "",
+        "illustrator": "Daria Khlebnikova",
+        "image_url": "",
+        "position": "17",
+        "quantity": 1
     },
     {
         "card_id": "shadowed-alleyway",
@@ -45,7 +61,15 @@
         "illustrator": "Pawel Kolomeyets",
         "image_url": "",
         "position": "18",
-        "quantity": 1  
+        "quantity": 1
+    },
+    {
+        "card_id": "fields-of-the-wind",
+        "flavor": "",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "19",
+        "quantity": 1
     },
     {
         "card_id": "temple-of-daikoku",
@@ -53,7 +77,7 @@
         "illustrator": "TODO",
         "image_url": "",
         "position": "20",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "temple-of-jikoju",
@@ -61,7 +85,7 @@
         "illustrator": "TODO",
         "image_url": "",
         "position": "21",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "temple-of-osano-wo",
@@ -69,7 +93,7 @@
         "illustrator": "TODO",
         "image_url": "",
         "position": "22",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "temple-of-shinsei-s-wisdom",
@@ -77,7 +101,7 @@
         "illustrator": "Hai Hoang",
         "image_url": "",
         "position": "23",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "temple-of-the-thunders",
@@ -85,7 +109,7 @@
         "illustrator": "Hai Hoang",
         "image_url": "",
         "position": "24",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "hida-secretkeeper",
@@ -93,7 +117,55 @@
         "illustrator": "Nino Vecia",
         "image_url": "",
         "position": "25",
-        "quantity": 3  
+        "quantity": 3
+    },
+    {
+        "card_id": "one-of-the-forgotten",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "26",
+        "quantity": 3
+    },
+    {
+        "card_id": "sake-house-smuggler",
+        "flavor": "",
+        "illustrator": "Moc Aran",
+        "image_url": "",
+        "position": "27",
+        "quantity": 3
+    },
+    {
+        "card_id": "kuni-silencer",
+        "flavor": "\"Have you seen a soul cut off from its ki?\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "28",
+        "quantity": 3
+    },
+    {
+        "card_id": "roadside-inn",
+        "flavor": "",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "29",
+        "quantity": 3
+    },
+    {
+        "card_id": "chancellor-s-aide",
+        "flavor": "\"I wish to see the leaves of Ide-sama's garden before they begin to fall. The regent's business with me can wait.\" - Kakita Yoshi",
+        "illustrator": "TODO",
+        "image_url": "",
+        "position": "30",
+        "quantity": 3
+    },
+    {
+        "card_id": "dazzling-duelist",
+        "flavor": "\"If you were so wise you would not have challenged me.\"",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "31",
+        "quantity": 3
     },
     {
         "card_id": "perfect-guest",
@@ -101,7 +173,55 @@
         "illustrator": "Nino Vecia",
         "image_url": "",
         "position": "32",
-        "quantity": 3  
+        "quantity": 3
+    },
+    {
+        "card_id": "masterpiece-painter",
+        "flavor": "",
+        "illustrator": "TODO",
+        "image_url": "",
+        "position": "33",
+        "quantity": 3
+    },
+    {
+        "card_id": "negotiation-table",
+        "flavor": "",
+        "illustrator": "Maerel Hibadita",
+        "image_url": "",
+        "position": "34",
+        "quantity": 3
+    },
+    {
+        "card_id": "inventive-mirumoto",
+        "flavor": "\"When you understand the path of the sword, your adversary can do nothing you cannot forsee.\" - Mirumoto's Niten",
+        "illustrator": "Eli Ring",
+        "image_url": "",
+        "position": "35",
+        "quantity": 3
+    },
+    {
+        "card_id": "agasha-prodigy",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "36",
+        "quantity": 3
+    },
+    {
+        "card_id": "ascetic-of-the-north-wall",
+        "flavor": "\"Be as the mountain: unyielding of body and mind.\"",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "37",
+        "quantity": 3
+    },
+    {
+        "card_id": "mindful-warrior",
+        "flavor": "\"When the day closes and Amaterasu sleeps, what will you have learned? What difference will you have made?\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "38",
+        "quantity": 3
     },
     {
         "card_id": "alchemical-laboratory",
@@ -109,7 +229,15 @@
         "illustrator": "Carlos Palma Cruchaga",
         "image_url": "",
         "position": "39",
-        "quantity": 3  
+        "quantity": 3
+    },
+    {
+        "card_id": "ikoma-message-runner",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "40",
+        "quantity": 3
     },
     {
         "card_id": "righteous-akodo",
@@ -117,7 +245,7 @@
         "illustrator": "Nino Vecia",
         "image_url": "",
         "position": "41",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "battle-aspirant",
@@ -125,7 +253,31 @@
         "illustrator": "Nino Vecia",
         "image_url": "",
         "position": "42",
-        "quantity": 3  
+        "quantity": 3
+    },
+    {
+        "card_id": "medium-of-the-living-soul",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "43",
+        "quantity": 3
+    },
+    {
+        "card_id": "bushido-adherent",
+        "flavor": "",
+        "illustrator": "Nino Vecia",
+        "image_url": "",
+        "position": "44",
+        "quantity": 3
+    },
+    {
+        "card_id": "expert-interpreter",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "45",
+        "quantity": 3
     },
     {
         "card_id": "isawa-pilgrim",
@@ -133,7 +285,79 @@
         "illustrator": "Lin Hsiang",
         "image_url": "",
         "position": "46",
-        "quantity": 3  
+        "quantity": 3
+    },
+    {
+        "card_id": "mediator-of-hostilities",
+        "flavor": "\"Do not lose your virtue under Tengoku by thinking a katana alone puts you in the right.\"",
+        "illustrator": "Moc Aran",
+        "image_url": "",
+        "position": "47",
+        "quantity": 3
+    },
+    {
+        "card_id": "serene-seer",
+        "flavor": "",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "48",
+        "quantity": 3
+    },
+    {
+        "card_id": "hallowed-ground",
+        "flavor": "",
+        "illustrator": "Daria Khlebnikova",
+        "image_url": "",
+        "position": "49",
+        "quantity": 3
+    },
+    {
+        "card_id": "shepherd-of-visages",
+        "flavor": "\"Remember, we each wear a mask.\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "50",
+        "quantity": 3
+    },
+    {
+        "card_id": "shosuro-actor",
+        "flavor": "\"All of life is a festival, and all are celebrants.\"",
+        "illustrator": "Brock Crossman",
+        "image_url": "",
+        "position": "51",
+        "quantity": 3
+    },
+    {
+        "card_id": "vice-proprietor",
+        "flavor": "\"You know I'll always have a little something set aside for you...\"",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "52",
+        "quantity": 3
+    },
+    {
+        "card_id": "master-whisperer",
+        "flavor": "",
+        "illustrator": "Drew Baker",
+        "image_url": "",
+        "position": "53",
+        "quantity": 3
+    },
+    {
+        "card_id": "acclaimed-geisha-house",
+        "flavor": "",
+        "illustrator": "Ruwen Liu",
+        "image_url": "",
+        "position": "54",
+        "quantity": 3
+    },
+    {
+        "card_id": "altansarnai-s-vanguard",
+        "flavor": "When war calls she stands ready",
+        "illustrator": "TODO",
+        "image_url": "",
+        "position": "55",
+        "quantity": 3
     },
     {
         "card_id": "merchant-of-curiosities",
@@ -141,7 +365,7 @@
         "illustrator": "Stanislav Dikolenko",
         "image_url": "",
         "position": "56",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "endless-plains-skirmisher",
@@ -149,7 +373,15 @@
         "illustrator": "Imad Awan",
         "image_url": "",
         "position": "57",
-        "quantity": 3  
+        "quantity": 3
+    },
+    {
+        "card_id": "way-station-trader",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "58",
+        "quantity": 3
     },
     {
         "card_id": "forthright-ide",
@@ -157,7 +389,39 @@
         "illustrator": "Carlos Palma Cruchaga",
         "image_url": "",
         "position": "59",
-        "quantity": 3  
+        "quantity": 3
+    },
+    {
+        "card_id": "shika-matchmaker",
+        "flavor": "Though they do not share their art often, matchmakers of the Deer Clan readily guide those in need toward fruitful and enduring partnerships.",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "60",
+        "quantity": 3
+    },
+    {
+        "card_id": "cunning-confidant",
+        "flavor": "\"I would not share such thoughts with the court.\"",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "61",
+        "quantity": 3
+    },
+    {
+        "card_id": "insightful-gatekeeper",
+        "flavor": "\"The truest path is not cut from stone or brick.\"",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "62",
+        "quantity": 3
+    },
+    {
+        "card_id": "venerable-fortunist",
+        "flavor": "\"Prune away your burdens to find your harmony.\"",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "63",
+        "quantity": 3
     },
     {
         "card_id": "kobo-ichi-kai-jujutsu",
@@ -165,7 +429,7 @@
         "illustrator": "Stanislav Dikolenko",
         "image_url": "",
         "position": "64",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "common-cause",
@@ -173,7 +437,7 @@
         "illustrator": "Pavel Kolomeyets",
         "image_url": "",
         "position": "65",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "the-crashing-wave",
@@ -181,7 +445,7 @@
         "illustrator": "Calvin Chua",
         "image_url": "",
         "position": "66",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "return-the-offense",
@@ -189,7 +453,7 @@
         "illustrator": "Quintin Gleim",
         "image_url": "",
         "position": "71",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "called-to-war",
@@ -197,7 +461,7 @@
         "illustrator": "Reiko Murakami",
         "image_url": "",
         "position": "77",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "privileged-position",
@@ -205,7 +469,7 @@
         "illustrator": "Paolo Puggioni",
         "image_url": "",
         "position": "79",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "appeal-to-sympathy",
@@ -213,7 +477,7 @@
         "illustrator": "Isuardi Therianto",
         "image_url": "",
         "position": "82",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "bayushi-traitor",
@@ -221,7 +485,7 @@
         "illustrator": "Stanislav Dikolenko",
         "image_url": "",
         "position": "84",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "compelling-testimony",
@@ -229,7 +493,7 @@
         "illustrator": "Felipe Gaona",
         "image_url": "",
         "position": "86",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "diversionary-maneuver",
@@ -237,7 +501,7 @@
         "illustrator": "Dimitry Burmak",
         "image_url": "",
         "position": "90",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "hige-s-sermon",
@@ -245,7 +509,7 @@
         "illustrator": "Lin Hsiang",
         "image_url": "",
         "position": "92",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "seize-the-day",
@@ -253,7 +517,7 @@
         "illustrator": "Pius Piranoto",
         "image_url": "",
         "position": "93",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "enlightenment",
