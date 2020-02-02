@@ -488,11 +488,59 @@
         "quantity": 3
     },
     {
+        "card_id": "inscribed-tanto",
+        "flavor": "\"Words of wisdom are nice, but sometimes you just need a sharpened claw.\"",
+        "illustrator": "Gong Studios",
+        "image_url": "",
+        "position": "72",
+        "quantity": 3
+    },
+    {
+        "card_id": "contemplative-wisdom",
+        "flavor": "",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "73",
+        "quantity": 3
+    },
+    {
+        "card_id": "unquestioned-heritage",
+        "flavor": "As the farmer who had always known him stepped out of his path, the boy's vision blurred with tears. Had the whole world changed when he joined his new family?",
+        "illustrator": "Ruwen Liu",
+        "image_url": "",
+        "position": "74",
+        "quantity": 3
+    },
+    {
+        "card_id": "impossible-koan",
+        "flavor": "If the candlelight is fire, the meal is long-cooked",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "75",
+        "quantity": 3
+    },
+    {
+        "card_id": "take-up-command",
+        "flavor": "",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "",
+        "position": "76",
+        "quantity": 3
+    },
+    {
         "card_id": "called-to-war",
         "flavor": "",
         "illustrator": "Reiko Murakami",
         "image_url": "",
         "position": "77",
+        "quantity": 3
+    },
+    {
+        "card_id": "all-out-assault",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "78",
         "quantity": 3
     },
     {
