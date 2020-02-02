@@ -4,7 +4,7 @@
             "unicorn"
         ],
         "clan": "unicorn",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "element": [],
         "fate": null,

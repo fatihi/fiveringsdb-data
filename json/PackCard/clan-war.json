@@ -448,11 +448,83 @@
         "quantity": 3
     },
     {
+        "card_id": "fulfill-your-duty",
+        "flavor": "",
+        "illustrator": "Francisco Miyara",
+        "image_url": "",
+        "position": "67",
+        "quantity": 3
+    },
+    {
+        "card_id": "a-game-of-letters",
+        "flavor": "",
+        "illustrator": "Mauro Dal Bo",
+        "image_url": "",
+        "position": "68",
+        "quantity": 3
+    },
+    {
+        "card_id": "favorable-alliance",
+        "flavor": "",
+        "illustrator": "Joshua Carlos",
+        "image_url": "",
+        "position": "69",
+        "quantity": 3
+    },
+    {
+        "card_id": "cultured-facade",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "70",
+        "quantity": 3
+    },
+    {
         "card_id": "return-the-offense",
         "flavor": "",
         "illustrator": "Quintin Gleim",
         "image_url": "",
         "position": "71",
+        "quantity": 3
+    },
+    {
+        "card_id": "inscribed-tanto",
+        "flavor": "\"Words of wisdom are nice, but sometimes you just need a sharpened claw.\"",
+        "illustrator": "Gong Studios",
+        "image_url": "",
+        "position": "72",
+        "quantity": 3
+    },
+    {
+        "card_id": "contemplative-wisdom",
+        "flavor": "",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "73",
+        "quantity": 3
+    },
+    {
+        "card_id": "unquestioned-heritage",
+        "flavor": "As the farmer who had always known him stepped out of his path, the boy's vision blurred with tears. Had the whole world changed when he joined his new family?",
+        "illustrator": "Ruwen Liu",
+        "image_url": "",
+        "position": "74",
+        "quantity": 3
+    },
+    {
+        "card_id": "impossible-koan",
+        "flavor": "If the candlelight is fire, the meal is long-cooked",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "75",
+        "quantity": 3
+    },
+    {
+        "card_id": "take-up-command",
+        "flavor": "",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "",
+        "position": "76",
         "quantity": 3
     },
     {
@@ -464,11 +536,35 @@
         "quantity": 3
     },
     {
+        "card_id": "all-out-assault",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "78",
+        "quantity": 3
+    },
+    {
         "card_id": "privileged-position",
         "flavor": "\"Welcome, Bayushi-San, to Kenson no Gakka, where we proudly remember your history...\"",
         "illustrator": "Paolo Puggioni",
         "image_url": "",
         "position": "79",
+        "quantity": 3
+    },
+    {
+        "card_id": "peacemaker-s-blade",
+        "flavor": "",
+        "illustrator": "Jason Juta",
+        "image_url": "",
+        "position": "80",
+        "quantity": 3
+    },
+    {
+        "card_id": "trick-of-the-light",
+        "flavor": "\"This confirms all of my suspicions!\"",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "81",
         "quantity": 3
     },
     {
@@ -480,11 +576,27 @@
         "quantity": 3
     },
     {
+        "card_id": "ramparts-of-stone",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "83",
+        "quantity": 3
+    },
+    {
         "card_id": "bayushi-traitor",
         "flavor": "\"I am sorry. This was my duty.\"",
         "illustrator": "Stanislav Dikolenko",
         "image_url": "",
         "position": "84",
+        "quantity": 3
+    },
+    {
+        "card_id": "imbued-with-shadows",
+        "flavor": "\"Keep telling yourself that I am the one who is lying to you.\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "85",
         "quantity": 3
     },
     {
@@ -496,11 +608,43 @@
         "quantity": 3
     },
     {
+        "card_id": "criminal-contacts",
+        "flavor": "",
+        "illustrator": "Pawel Kolomeyets",
+        "image_url": "",
+        "position": "87",
+        "quantity": 3
+    },
+    {
+        "card_id": "expert-bartering",
+        "flavor": "",
+        "illustrator": "Isuardi Therianto",
+        "image_url": "",
+        "position": "88",
+        "quantity": 3
+    },
+    {
+        "card_id": "way-of-the-open-hand",
+        "flavor": "\"In every trade, someone must give first.\" - Ide Tadaji",
+        "illustrator": "Maricela Ugarte",
+        "image_url": "",
+        "position": "89",
+        "quantity": 3
+    },
+    {
         "card_id": "diversionary-maneuver",
         "flavor": "",
         "illustrator": "Dimitry Burmak",
         "image_url": "",
         "position": "90",
+        "quantity": 3
+    },
+    {
+        "card_id": "join-the-fray",
+        "flavor": "",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "91",
         "quantity": 3
     },
     {

@@ -4,7 +4,7 @@
             "crane"
         ],
         "clan": "crane",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "element": [],
         "fate": null,

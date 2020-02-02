@@ -4,7 +4,7 @@
             "scorpion"
         ],
         "clan": "scorpion",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 1,
         "element": [],
         "fate": null,
