@@ -4,7 +4,7 @@
             "phoenix"
         ],
         "clan": "phoenix",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "element": [],
         "fate": null,
