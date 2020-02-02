@@ -71,7 +71,7 @@ class Card
     private $name;
 
     /**
-     * @var integer|null
+     * @var string|null
      *
      * @ORM\Column(name="cost", type="smallint", nullable=true)
      *
