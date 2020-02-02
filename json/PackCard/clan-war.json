@@ -592,11 +592,27 @@
         "quantity": 3
     },
     {
+        "card_id": "imbued-with-shadows",
+        "flavor": "\"Keep telling yourself that I am the one who is lying to you.\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "85",
+        "quantity": 3
+    },
+    {
         "card_id": "compelling-testimony",
         "flavor": "",
         "illustrator": "Felipe Gaona",
         "image_url": "",
         "position": "86",
+        "quantity": 3
+    },
+    {
+        "card_id": "criminal-contacts",
+        "flavor": "",
+        "illustrator": "Pawel Kolomeyets",
+        "image_url": "",
+        "position": "87",
         "quantity": 3
     },
     {
