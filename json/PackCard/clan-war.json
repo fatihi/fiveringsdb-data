@@ -448,6 +448,38 @@
         "quantity": 3
     },
     {
+        "card_id": "fulfill-your-duty",
+        "flavor": "",
+        "illustrator": "Francisco Miyara",
+        "image_url": "",
+        "position": "67",
+        "quantity": 3
+    },
+    {
+        "card_id": "a-game-of-letters",
+        "flavor": "",
+        "illustrator": "Mauro Dal Bo",
+        "image_url": "",
+        "position": "68",
+        "quantity": 3
+    },
+    {
+        "card_id": "favorable-alliance",
+        "flavor": "",
+        "illustrator": "Joshua Carlos",
+        "image_url": "",
+        "position": "69",
+        "quantity": 3
+    },
+    {
+        "card_id": "cultured-facade",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "70",
+        "quantity": 3
+    },
+    {
         "card_id": "return-the-offense",
         "flavor": "",
         "illustrator": "Quintin Gleim",
