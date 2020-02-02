@@ -552,11 +552,35 @@
         "quantity": 3
     },
     {
+        "card_id": "peacemaker-s-blade",
+        "flavor": "",
+        "illustrator": "Jason Juta",
+        "image_url": "",
+        "position": "80",
+        "quantity": 3
+    },
+    {
+        "card_id": "trick-of-the-light",
+        "flavor": "\"This confirms all of my suspicions!\"",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "81",
+        "quantity": 3
+    },
+    {
         "card_id": "appeal-to-sympathy",
         "flavor": "",
         "illustrator": "Isuardi Therianto",
         "image_url": "",
         "position": "82",
+        "quantity": 3
+    },
+    {
+        "card_id": "ramparts-of-stone",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "83",
         "quantity": 3
     },
     {
