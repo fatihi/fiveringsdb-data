@@ -180,12 +180,20 @@
         "value": "Daimyō"
     },
     {
+        "id": "trait.deer-clan",
+        "value": "Deer Clan"
+    },
+    {
         "id": "trait.dojo",
         "value": "Dōjō"
     },
     {
         "id": "trait.dragon",
         "value": "Dragon"
+    },
+    {
+        "id": "trait.dragonfly-clan",
+        "value": "Dragonfly Clan"
     },
     {
         "id": "trait.duelist",
@@ -224,6 +232,10 @@
         "value": "Fort"
     },
     {
+        "id": "trait.fox-clan",
+        "value": "Fox Clan"
+    },
+    {
         "id": "trait.gaijin",
         "value": "Gaijin"
     },
@@ -254,6 +266,10 @@
     {
         "id": "trait.informant",
         "value": "Informant"
+    },
+    {
+        "id": "trait.inn",
+        "value": "Inn"
     },
     {
         "id": "trait.item",

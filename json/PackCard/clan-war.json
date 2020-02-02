@@ -40,11 +40,35 @@
         "quantity": 1
     },
     {
+        "card_id": "strategizing",
+        "flavor": "",
+        "illustrator": "Stefano Baldo",
+        "image_url": "",
+        "position": "16",
+        "quantity": 1
+    },
+    {
+        "card_id": "fury-of-the-kami",
+        "flavor": "",
+        "illustrator": "Daria Khlebnikova",
+        "image_url": "",
+        "position": "17",
+        "quantity": 1
+    },
+    {
         "card_id": "shadowed-alleyway",
         "flavor": "",
         "illustrator": "Pawel Kolomeyets",
         "image_url": "",
         "position": "18",
+        "quantity": 1
+    },
+    {
+        "card_id": "fields-of-the-wind",
+        "flavor": "",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "19",
         "quantity": 1
     },
     {
@@ -93,6 +117,38 @@
         "illustrator": "Nino Vecia",
         "image_url": "",
         "position": "25",
+        "quantity": 3
+    },
+    {
+        "card_id": "one-of-the-forgotten",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "26",
+        "quantity": 3
+    },
+    {
+        "card_id": "sake-house-smuggler",
+        "flavor": "",
+        "illustrator": "Moc Aran",
+        "image_url": "",
+        "position": "27",
+        "quantity": 3
+    },
+    {
+        "card_id": "kuni-silencer",
+        "flavor": "\"Have you seen a soul cut off from its ki?\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "28",
+        "quantity": 3
+    },
+    {
+        "card_id": "roadside-inn",
+        "flavor": "",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "29",
         "quantity": 3
     },
     {
@@ -333,6 +389,38 @@
         "illustrator": "Carlos Palma Cruchaga",
         "image_url": "",
         "position": "59",
+        "quantity": 3
+    },
+    {
+        "card_id": "shika-matchmaker",
+        "flavor": "Though they do not share their art often, matchmakers of the Deer Clan readily guide those in need toward fruitful and enduring partnerships.",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "60",
+        "quantity": 3
+    },
+    {
+        "card_id": "cunning-confidant",
+        "flavor": "\"I would not share such thoughts with the court.\"",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "61",
+        "quantity": 3
+    },
+    {
+        "card_id": "insightful-gatekeeper",
+        "flavor": "\"The truest path is not cut from stone or brick.\"",
+        "illustrator": "Imad Awan",
+        "image_url": "",
+        "position": "62",
+        "quantity": 3
+    },
+    {
+        "card_id": "venerable-fortunist",
+        "flavor": "\"Prune away your burdens to find your harmony.\"",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "63",
         "quantity": 3
     },
     {
