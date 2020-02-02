@@ -112,6 +112,14 @@
         "quantity": 3
     },
     {
+        "card_id": "ikoma-message-runner",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "40",
+        "quantity": 3
+    },
+    {
         "card_id": "righteous-akodo",
         "flavor": "She stopped at every shrine encountered, whispering prayers of penitence for the violence that her duty demanded",
         "illustrator": "Nino Vecia",
@@ -128,11 +136,59 @@
         "quantity": 3
     },
     {
+        "card_id": "medium-of-the-living-soul",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "43",
+        "quantity": 3
+    },
+    {
+        "card_id": "bushido-adherent",
+        "flavor": "",
+        "illustrator": "Nino Vecia",
+        "image_url": "",
+        "position": "44",
+        "quantity": 3
+    },
+    {
+        "card_id": "expert-interpreter",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "45",
+        "quantity": 3
+    },
+    {
         "card_id": "isawa-pilgrim",
         "flavor": "",
         "illustrator": "Lin Hsiang",
         "image_url": "",
         "position": "46",
+        "quantity": 3
+    },
+    {
+        "card_id": "mediator-of-hostilities",
+        "flavor": "\"Do not lose your virtue under Tengoku by thinking a katana alone puts you in the right.\"",
+        "illustrator": "Moc Aran",
+        "image_url": "",
+        "position": "47",
+        "quantity": 3
+    },
+    {
+        "card_id": "serene-seer",
+        "flavor": "",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "48",
+        "quantity": 3
+    },
+    {
+        "card_id": "hallowed-ground",
+        "flavor": "",
+        "illustrator": "Daria Khlebnikova",
+        "image_url": "",
+        "position": "49",
         "quantity": 3
     },
     {
