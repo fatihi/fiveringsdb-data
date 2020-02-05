@@ -1,5 +1,21 @@
 [
     {
+        "card_id": "desertion",
+        "flavor": "",
+        "illustrator": "Muyoung Kim",
+        "image_url": "",
+        "position": "1",
+        "quantity": 1
+    },
+    {
+        "card_id": "dishonorable-dealings",
+        "flavor": "",
+        "illustrator": "Muyoung Kim",
+        "image_url": "",
+        "position": "2",
+        "quantity": 1
+    },
+    {
         "card_id": "exposed-secrets",
         "flavor": "",
         "illustrator": "Yudong Shen",
@@ -8,11 +24,75 @@
         "quantity": 1
     },
     {
+        "card_id": "falling-fortune",
+        "flavor": "",
+        "illustrator": "Yudong Shen",
+        "image_url": "",
+        "position": "4",
+        "quantity": 1
+    },
+    {
+        "card_id": "finding-a-new-lord",
+        "flavor": "",
+        "illustrator": "Muyoung Kim",
+        "image_url": "",
+        "position": "5",
+        "quantity": 1
+    },
+    {
+        "card_id": "forgotten-plans",
+        "flavor": "",
+        "illustrator": "Muyoung Kim",
+        "image_url": "",
+        "position": "6",
+        "quantity": 1
+    },
+    {
         "card_id": "second-chances",
         "flavor": "",
-        "illustrator": "MuYoung Kim",
+        "illustrator": "Muyoung Kim",
         "image_url": "",
         "position": "7",
+        "quantity": 1
+    },
+    {
+        "card_id": "sent-to-their-deaths",
+        "flavor": "",
+        "illustrator": "Muyoung Kim",
+        "image_url": "",
+        "position": "8",
+        "quantity": 1
+    },
+    {
+        "card_id": "shattered-blades",
+        "flavor": "",
+        "illustrator": "Yudong Shen",
+        "image_url": "",
+        "position": "9",
+        "quantity": 1
+    },
+    {
+        "card_id": "spreading-discontent",
+        "flavor": "",
+        "illustrator": "Muyoung Kim",
+        "image_url": "",
+        "position": "10",
+        "quantity": 1
+    },
+    {
+        "card_id": "transgression-of-honor",
+        "flavor": "",
+        "illustrator": "Muyoung Kim",
+        "image_url": "",
+        "position": "11",
+        "quantity": 1
+    },
+    {
+        "card_id": "upholding-bushido",
+        "flavor": "",
+        "illustrator": "Francesca Baerald",
+        "image_url": "",
+        "position": "12",
         "quantity": 1
     },
     {
@@ -74,7 +154,7 @@
     {
         "card_id": "temple-of-daikoku",
         "flavor": "",
-        "illustrator": "TODO",
+        "illustrator": "Hai Hoang",
         "image_url": "",
         "position": "20",
         "quantity": 1
@@ -82,7 +162,7 @@
     {
         "card_id": "temple-of-jikoju",
         "flavor": "",
-        "illustrator": "TODO",
+        "illustrator": "Hai Hoang",
         "image_url": "",
         "position": "21",
         "quantity": 1
@@ -90,7 +170,7 @@
     {
         "card_id": "temple-of-osano-wo",
         "flavor": "",
-        "illustrator": "TODO",
+        "illustrator": "Hai Hoang",
         "image_url": "",
         "position": "22",
         "quantity": 1
@@ -154,7 +234,7 @@
     {
         "card_id": "chancellor-s-aide",
         "flavor": "\"I wish to see the leaves of Ide-sama's garden before they begin to fall. The regent's business with me can wait.\" - Kakita Yoshi",
-        "illustrator": "TODO",
+        "illustrator": "Tawny Fritz",
         "image_url": "",
         "position": "30",
         "quantity": 3
@@ -178,7 +258,7 @@
     {
         "card_id": "masterpiece-painter",
         "flavor": "",
-        "illustrator": "TODO",
+        "illustrator": "Lin Hsiang",
         "image_url": "",
         "position": "33",
         "quantity": 3
@@ -354,7 +434,7 @@
     {
         "card_id": "altansarnai-s-vanguard",
         "flavor": "When war calls she stands ready",
-        "illustrator": "TODO",
+        "illustrator": "Storn Cook",
         "image_url": "",
         "position": "55",
         "quantity": 3
