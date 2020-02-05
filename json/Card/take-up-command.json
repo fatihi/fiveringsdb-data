@@ -31,7 +31,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Attached character gains the<em>Commander</em> trait and: \"<b>Action:</b> During a conflict in which this character is participating, choose a <em>Bushi</em> character you control with printed cost 2 or lower - ready that character and move it to the conflict.\"",
+        "text": "Attached character gains the <em>Commander</em> trait and: \"<b>Action:</b> During a conflict in which this character is participating, choose a <em>Bushi</em> character you control with printed cost 2 or lower - ready that character and move it to the conflict.\"",
         "traits": [
             "condition"
         ],
