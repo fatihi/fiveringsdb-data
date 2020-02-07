@@ -31,7 +31,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a [conflict-military] conflict in which you are the attacking player, choose an eligible province not currently being attacked - bow and move home each participating. Move the conflict to the chosen province and reveal it, if able. Move any number of ready characters you control to the conflict, then your opponent does so as well.",
+        "text": "<b>Action:</b> During a [conflict-military] conflict in which you are the attacking player, choose an eligible province not currently being attacked - bow and move home each participating character. Move the conflict to the chosen province and reveal it, if able. Move any number of ready characters you control to the conflict, then your opponent does so as well.",
         "traits": [
             "tactic"
         ],
