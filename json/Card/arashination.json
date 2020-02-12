@@ -31,7 +31,7 @@
         "side": "treaty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<em>(X is equal to the value staked on this treaty.)</em>\nThe player who broke this treaty gives control of a character they control with the highest printed cost of X or lower to the player who did not break this treaty.",
+        "text": null,
         "traits": [],
         "type": "treaty",
         "unicity": false
