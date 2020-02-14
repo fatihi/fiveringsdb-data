@@ -40,11 +40,5 @@
         "name": "Dominion Cycle",
         "position": 7,
         "size": 6
-    },
-    {
-        "id": "meme",
-        "name": "Top Secret",
-        "position": 99,
-        "size": 1
     }
 ]

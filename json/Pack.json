@@ -268,14 +268,5 @@
         "released_at": null,
         "ffg_id": "L5C30",
         "cycle_id": "dominion"
-    },
-    {
-       "id": "meme-pack-1",
-       "name": "Meme Pack 1",
-       "position": 1,
-       "size": 1,
-       "released_at": null,
-       "ffg_id": "LMA0",
-       "cycle_id": "meme"
     }
 ]
