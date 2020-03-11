@@ -25,7 +25,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "This characters gets +1[conflict-military] and +1[conflict-political] while you have claimed the [element-fire] or [element-void] ring.",
+        "text": "This character gets +1[conflict-military] and +1[conflict-political] while you have claimed the [element-fire] or [element-void] ring.",
         "traits": [
             "monk"
         ],

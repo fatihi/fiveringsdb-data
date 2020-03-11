@@ -31,7 +31,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Sincerity. <i>(When this character leaves play, draw 1 card.)</i>\nYou may play this character as an attachment on a character you control, reducting its cost by 2. If you do, it loses sincerity and gains the text: \"<b>Action:</b> During a conflict - move attached character home.\"",
+        "text": "Sincerity. <i>(When this character leaves play, draw 1 card.)</i>\nYou may play this character as an attachment on a character you control, reducing its cost by 2. If you do, it loses sincerity and gains the text: \"<b>Action:</b> During a conflict - move attached character home.\"",
         "traits": [
             "monk",
             "tattooed"
