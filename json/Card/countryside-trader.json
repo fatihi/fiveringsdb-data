@@ -14,7 +14,7 @@
         "deck_limit": 3,
         "element": [],
         "fate": null,
-        "glory": 0,
+        "glory": 1,
         "honor": null,
         "id": "countryside-trader",
         "influence_cost": 2,
