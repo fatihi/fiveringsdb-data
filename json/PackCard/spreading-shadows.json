@@ -16,11 +16,75 @@
         "quantity": 1
     },
     {
+        "card_id": "spectral-visitation",
+        "flavor": "",
+        "illustrator": "Apterus",
+        "image_url": "",
+        "position": "27",
+        "quantity": 1
+    },
+    {
+        "card_id": "retire-to-the-brotherhood",
+        "flavor": "",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "28",
+        "quantity": 1
+    },
+    {
+        "card_id": "wind-s-path",
+        "flavor": "",
+        "illustrator": "Nele Diel",
+        "image_url": "",
+        "position": "29",
+        "quantity": 1
+    },
+    {
+        "card_id": "driven-by-courage",
+        "flavor": "",
+        "illustrator": "John Anthony Di Giovanni",
+        "image_url": "",
+        "position": "30",
+        "quantity": 1
+    },
+    {
+        "card_id": "butcher-of-the-fallen",
+        "flavor": "",
+        "illustrator": "Carlos Dias",
+        "image_url": "",
+        "position": "31",
+        "quantity": 3
+    },
+    {
+        "card_id": "cunning-negotiator",
+        "flavor": "",
+        "illustrator": "Jake Murray",
+        "image_url": "",
+        "position": "32",
+        "quantity": 3
+    },
+    {
+        "card_id": "daidoji-marketplace",
+        "flavor": "",
+        "illustrator": "Charles Urbach",
+        "image_url": "",
+        "position": "33",
+        "quantity": 3
+    },
+    {
         "card_id": "traveling-philosopher",
         "flavor": "\"In another lifetime, her untrod path shall be a road.\" – Togashi Mitsu",
         "illustrator": "Leanna Crossan",
         "image_url": "",
         "position": "34",
+        "quantity": 3
+    },
+    {
+        "card_id": "chronicler-of-conquests",
+        "flavor": "\"I have seen the flames of war rage across the plain, consuming palace and city and monastery alike. It is a sight I will never forget.\"",
+        "illustrator": "Matt Bulahao",
+        "image_url": "",
+        "position": "35",
         "quantity": 3
     },
     {
@@ -32,11 +96,19 @@
         "quantity": 3
     },
     {
+        "card_id": "thunder-guard-elite",
+        "flavor": "\"The Kami only know how many cells these Thunder Guard fill, how many bodies they leave behind...\" - Crime Lord Ikku",
+        "illustrator": "Guillaume Ducos",
+        "image_url": "",
+        "position": "37",
+        "quantity": 3
+    },
+    {
         "card_id": "dispatch-to-nowhere",
         "flavor": "\"Your loyalty has been recognized, and you may take up your new assignment in Kinbō Province at once.\" – Soshi Shiori",
         "illustrator": "Leanna Crossan",
         "image_url": "",
-        "position": "34",
+        "position": "38",
         "quantity": 3
     },
     {
@@ -48,11 +120,27 @@
         "quantity": 3
     },
     {
+        "card_id": "moto-stables",
+        "flavor": "",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "40",
+        "quantity": 3
+    },
+    {
         "card_id": "disciple-of-shinsei",
         "flavor": "\"If we do not let go our fear and our desire, we will be trapped in this cycle for eternity.\"",
         "illustrator": "Lin Hsiang",
         "image_url": "",
-        "position": "39",
+        "position": "41",
+        "quantity": 3
+    },
+    {
+        "card_id": "obsidian-talisman",
+        "flavor": "\"Did this power not also come from the heavens?\"",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "42",
         "quantity": 3
     },
     {
@@ -61,6 +149,46 @@
         "illustrator": "Felipe Gaona",
         "image_url": "",
         "position": "43",
+        "quantity": 3
+    },
+    {
+        "card_id": "mountaintop-vigil",
+        "flavor": "None knew what had brought them together, yet is was agreed that none could find their answers alone.",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "44",
+        "quantity": 3
+    },
+    {
+        "card_id": "logistics",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "45",
+        "quantity": 3
+    },
+    {
+        "card_id": "ethereal-alignment",
+        "flavor": "\"This was never your fate.\"",
+        "illustrator": "Calvin Chua",
+        "image_url": "",
+        "position": "46",
+        "quantity": 3
+    },
+    {
+        "card_id": "suffer-the-consequences",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "47",
+        "quantity": 3
+    },
+    {
+        "card_id": "never-yield",
+        "flavor": "",
+        "illustrator": "Francesca Baerald",
+        "image_url": "",
+        "position": "48",
         "quantity": 3
     }
 ]
