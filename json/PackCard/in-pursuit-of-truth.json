@@ -13,7 +13,7 @@
       "illustrator": "Lin Hsiang",
       "image_url": "",
       "position": "54",
-      "quantity": 1
+      "quantity": 3
   },
   {
       "card_id": "the-wealth-of-the-crane",
@@ -21,7 +21,7 @@
       "illustrator": "Carlos Palma Cruchaga",
       "image_url": "",
       "position": "63",
-      "quantity": 1
+      "quantity": 3
   },
   {
       "card_id": "shori",
@@ -29,7 +29,7 @@
       "illustrator": "TODO",
       "image_url": "",
       "position": "66",
-      "quantity": 1
+      "quantity": 3
   },
   {
       "card_id": "study-of-the-natural-world",
@@ -37,6 +37,6 @@
       "illustrator": "Guillaume Ducor",
       "image_url": "",
       "position": "68",
-      "quantity": 1
+      "quantity": 3
   }
 ]
