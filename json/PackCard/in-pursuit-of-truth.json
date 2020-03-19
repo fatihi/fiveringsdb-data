@@ -1,0 +1,42 @@
+[
+  {
+      "card_id": "tsuma",
+      "flavor": "",
+      "illustrator": "Daniel Alekow",
+      "image_url": "",
+      "position": "49",
+      "quantity": 1
+  },
+  {
+      "card_id": "asahina-augur",
+      "flavor": "\"This is the only bird I have seen in days. War comes for us, whether we wish for it or not.\"",
+      "illustrator": "Lin Hsiang",
+      "image_url": "",
+      "position": "54",
+      "quantity": 1
+  },
+  {
+      "card_id": "the-wealth-of-the-crane",
+      "flavor": "",
+      "illustrator": "Carlos Palma Cruchaga",
+      "image_url": "",
+      "position": "63",
+      "quantity": 1
+  },
+  {
+      "card_id": "shori",
+      "flavor": "",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "66",
+      "quantity": 1
+  },
+  {
+      "card_id": "study-of-the-natural-world",
+      "flavor": "",
+      "illustrator": "Guillaume Ducor",
+      "image_url": "",
+      "position": "68",
+      "quantity": 1
+  }
+]

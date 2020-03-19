@@ -268,5 +268,23 @@
         "released_at": null,
         "ffg_id": "L5C30",
         "cycle_id": "dominion"
+    },
+    {
+        "id": "in-pursuit-of-truth",
+        "name": "In Pursuit of Truth",
+        "position": 3,
+        "size": 22,
+        "released_at": null,
+        "ffg_id": "L5C31",
+        "cycle_id": "dominion"
+    },
+    {
+        "id": "campaigns-of-conquest",
+        "name": "Campaigns of Conquest",
+        "position": 4,
+        "size": 22,
+        "released_at": null,
+        "ffg_id": "L5C32",
+        "cycle_id": "dominion"
     }
 ]
