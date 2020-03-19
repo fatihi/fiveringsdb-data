@@ -400,6 +400,10 @@
         "value": "River"
     },
     {
+      "id": "trait.road",
+      "value": "Road"
+    },
+    {
         "id": "trait.ronin",
         "value": "Rōnin"
     },
