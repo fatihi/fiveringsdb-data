@@ -1,0 +1,42 @@
+[
+  {
+      "card_id": "hayaken-no-shiro",
+      "flavor": "",
+      "illustrator": "Daniel Alekow",
+      "image_url": "",
+      "position": "71",
+      "quantity": 1
+  },
+  {
+      "card_id": "the-pursuit-of-justice",
+      "flavor": "",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "73",
+      "quantity": 1
+  },
+  {
+      "card_id": "ikoma-tsanuri-2",
+      "flavor": "",
+      "illustrator": "Conceptopolis",
+      "image_url": "",
+      "position": "79",
+      "quantity": 3
+  },
+  {
+      "card_id": "under-siege",
+      "flavor": "",
+      "illustrator": "Guillaume Ducos",
+      "image_url": "",
+      "position": "89",
+      "quantity": 3
+  },
+  {
+      "card_id": "forgery",
+      "flavor": "\"Who could refuse an order from the most honorable Elemental Masters?\" - Shosuro Hametsu",
+      "illustrator": "Carlos Palma Cruchaga",
+      "image_url": "",
+      "position": "93",
+      "quantity": 3
+  }
+]
