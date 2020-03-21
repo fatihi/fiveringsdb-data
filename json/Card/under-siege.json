@@ -20,6 +20,7 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_banned": false,
+        "is_banned_in_skirmish": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,
@@ -33,7 +34,7 @@
         "strength_bonus": null,
         "text": "<b>Fire</b> Role only.\n<b>Reaction:</b> After a conflict is declared - the defending player sets their hand aside, facedown and out of play. If they do, they draw 5 cards. At the end of the conflict, that player discards their hand and adds the set-aside cards to their hand. (Max 1 per conflict.)",
         "traits": [
-          "tactic"
+            "tactic"
         ],
         "type": "event",
         "unicity": false
