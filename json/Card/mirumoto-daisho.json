@@ -20,7 +20,7 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_banned": true,
-        "is_banned_in_skirmish": false,
+        "is_banned_in_skirmish": true,
         "is_restricted": false,
         "military": null,
         "military_bonus": "+2",
