@@ -15,7 +15,7 @@
         "influence_pool": 10,
         "is_banned": false,
         "is_banned_in_skirmish": false,
-        "is_restricted": false,
+        "is_restricted": true,
         "military": null,
         "military_bonus": null,
         "name": "City of the Open Hand",
@@ -26,7 +26,7 @@
         "side": "province",
         "strength": null,
         "strength_bonus": "+1",
-        "text": "<b>Action:</b> If you are less honorable than an opponent, bow this stronghold and select one – either that opponent loses 1 honor, or you gain 1 honor.\n<i>Errata from RRG v9</i>",
+        "text": "<b>Action:</b> If you are less honorable than an opponent, bow this stronghold – take 1 honor from that player.",
         "traits": [
             "city"
         ],
