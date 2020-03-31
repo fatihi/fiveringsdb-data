@@ -299,7 +299,7 @@
         "card_id": "city-of-the-open-hand",
         "flavor": null,
         "illustrator": "Chris Ostrowski",
-        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/ee/eb/eeeb8cbd-ca17-475b-bc69-e31520d8e952/l5c01_city-of-the-open-hand.png",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C01_6.jpg",
         "position": "6",
         "quantity": 1
     },
@@ -915,7 +915,7 @@
         "card_id": "kuroi-mori",
         "flavor": null,
         "illustrator": "Oliver Specht",
-        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C01_12.jpg",
+        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/04/36/04363de6-60b2-442c-83c1-185d4c6d5b01/l5c01_kuroi-mori.png",
         "position": "12",
         "quantity": 1
     },
