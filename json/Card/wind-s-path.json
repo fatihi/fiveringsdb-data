@@ -27,7 +27,7 @@
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": "4",
+        "strength": "5",
         "strength_bonus": null,
         "text": "Eminent.\nDuring conflicts, you may play each character in this province as if it were in your hand. Each character played this way must enter play in the conflict.",
         "traits": [
