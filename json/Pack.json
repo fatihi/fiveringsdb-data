@@ -286,5 +286,14 @@
         "released_at": null,
         "ffg_id": "L5C32",
         "cycle_id": "dominion"
+    },
+    {
+        "id": "as-honor-demands",
+        "name": "As Honor Demands",
+        "position": 5,
+        "size": 22,
+        "released_at": null,
+        "ffg_id": "L5C33",
+        "cycle_id": "dominion"
     }
 ]

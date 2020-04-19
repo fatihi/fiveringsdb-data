@@ -1,0 +1,66 @@
+[
+  {
+      "card_id": "seven-fold-palace",
+      "flavor": "",
+      "illustrator": "Noah Bradley",
+      "image_url": "",
+      "position": "93",
+      "quantity": 1
+  },
+  {
+      "card_id": "honor-s-reward",
+      "flavor": "",
+      "illustrator": "John Anthony De Giovanni",
+      "image_url": "",
+      "position": "95",
+      "quantity": 1
+  },
+  {
+      "card_id": "master-of-the-court",
+      "flavor": "",
+      "illustrator": "Hai Hoang",
+      "image_url": "",
+      "position": "98",
+      "quantity": 3
+  },
+  {
+      "card_id": "asako-lawmaster",
+      "flavor": "They came to her to receive a fair verdict on the child's inheritance. She sent both away with nothing, for both had approached the dispute with dishonorable rancor.",
+      "illustrator": "Lin Hsiang",
+      "image_url": "",
+      "position": "102",
+      "quantity": 3
+  },
+  {
+      "card_id": "endless-archives",
+      "flavor": "",
+      "illustrator": "Logan Felliciano",
+      "image_url": "",
+      "position": "103",
+      "quantity": 3
+  },
+  {
+      "card_id": "shinjo-altansarnai-2",
+      "flavor": "\"We shall fight together.\"",
+      "illustrator": "Leo Avero",
+      "image_url": "",
+      "position": "105",
+      "quantity": 3
+  },
+  {
+      "card_id": "elegance-and-grace",
+      "flavor": "At the sight of her joy, a thousand poems were born.",
+      "illustrator": "Hai Hoang",
+      "image_url": "",
+      "position": "108",
+      "quantity": 3
+  },
+  {
+      "card_id": "soshi-diviner",
+      "flavor": "\"My secrets are illuminated by Ameterasu's light alone.\"",
+      "illustrator": "Lin Hsiang",
+      "image_url": "",
+      "position": "112",
+      "quantity": 3
+  }
+]

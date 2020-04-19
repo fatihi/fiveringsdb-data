@@ -1,16 +1,16 @@
 [
     {
         "allowed_clans": [
-            "scorpion"
+            "crane"
         ],
-        "clan": "scorpion",
-        "cost": "1",
+        "clan": "crane",
+        "cost": "4",
         "deck_limit": 3,
         "element": [],
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "shepherd-of-visages",
+        "id": "master-of-the-court",
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
@@ -18,18 +18,17 @@
         "is_restricted": false,
         "military": "1",
         "military_bonus": null,
-        "name": "Shepherd of Visages",
+        "name": "Master of the Court",
         "name_extra": null,
-        "political": "1",
+        "political": "4",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, choose a participating character – that character gets –2 glory until the end of the conflict.",
+        "text": "Covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)</i>\n<b>Interrupt:</b> When the effects of an event would initiate, discard an honored status token from this character - cancel those effects.",
         "traits": [
-            "shugenja",
-            "air"
+            "courtier"
         ],
         "type": "character",
         "unicity": false
