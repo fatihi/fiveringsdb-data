@@ -16,11 +16,43 @@
       "quantity": 3
   },
   {
+      "card_id": "kitsuki-chiari",
+      "flavor": "\"This changes everything.\"",
+      "illustrator": "Nino Vecia",
+      "image_url": "https://pbs.twimg.com/media/EXQzHWHWAAEmKSG?format=jpg&name=medium",
+      "position": "56",
+      "quantity": 3
+  },
+  {
+      "card_id": "scholar-of-old-rempet",
+      "flavor": "",
+      "illustrator": "Marius Bota",
+      "image_url": "https://cdn.discordapp.com/attachments/316605644579012608/707060050598035516/l5r_scholar_of_old_pempet_96115416_10216607282326213_7031430057092448256_n.png",
+      "position": "60",
+      "quantity": 3
+  },
+  {
+      "card_id": "return-from-shadows",
+      "flavor": "",
+      "illustrator": "Carlos Dias",
+      "image_url": "",
+      "position": "62",
+      "quantity": 3
+  },
+  {
       "card_id": "the-wealth-of-the-crane",
       "flavor": "",
       "illustrator": "Carlos Palma Cruchaga",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/cf/59/cf59b684-23e6-4030-a7f2-c20e90c0e5f3/l5c31_the-wealth-of-the-crane.png",
       "position": "63",
+      "quantity": 3
+  },
+  {
+      "card_id": "mantra-of-void",
+      "flavor": "",
+      "illustrator": "Pavel Kolomeyets",
+      "image_url": "",
+      "position": "64",
       "quantity": 3
   },
   {
