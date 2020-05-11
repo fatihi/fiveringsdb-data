@@ -32,7 +32,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Attach to an unbroken province.\nLimit 1 <em>Battlefield</em> attachment per province.\nDuring a conflict at attached province, each participating character your control gets +2[conflict-military].",
+        "text": "Attach to an unbroken province.\nLimit 1 <em>Battlefield</em> attachment per province.\nDuring a conflict at attached province, each participating character you control gets +2[conflict-military].",
         "traits": [
             "battlefield"
         ],
