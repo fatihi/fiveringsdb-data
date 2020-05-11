@@ -24,11 +24,35 @@
       "quantity": 3
   },
   {
+      "card_id": "master-tactician",
+      "flavor": "\"It's neither war nor peace: only order and chaos.\" - Akodo's Leadership",
+      "illustrator": "Jason Engle",
+      "image_url": "",
+      "position": "58",
+      "quantity": 3
+  },
+  {
+      "card_id": "student-of-the-tao",
+      "flavor": "",
+      "illustrator": "Le Vuong",
+      "image_url": "https://cdn.discordapp.com/attachments/316605644579012608/708383943652540436/95960074_1424112651105262_5115461643316232192_n.jpg",
+      "position": "58",
+      "quantity": 3
+  },
+  {
       "card_id": "scholar-of-old-rempet",
       "flavor": "",
       "illustrator": "Marius Bota",
       "image_url": "https://cdn.discordapp.com/attachments/316605644579012608/707060050598035516/l5r_scholar_of_old_pempet_96115416_10216607282326213_7031430057092448256_n.png",
       "position": "60",
+      "quantity": 3
+  },
+  {
+      "card_id": "lost-papers",
+      "flavor": "",
+      "illustrator": "Felipe Gaona",
+      "image_url": "",
+      "position": "61",
       "quantity": 3
   },
   {
