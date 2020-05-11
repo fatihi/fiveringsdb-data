@@ -356,6 +356,10 @@
         "value": "Mythic"
     },
     {
+        "id": "trait.nezumi",
+        "value": "Nezumi"
+    },
+    {
         "id": "trait.omen",
         "value": "Omen"
     },
