@@ -1,7 +1,13 @@
 [
     {
         "allowed_clans": [
-            "crane"
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
         ],
         "clan": "crane",
         "cost": "1",
@@ -11,7 +17,7 @@
         "glory": 1,
         "honor": null,
         "id": "local-daimyo-s-retainer",
-        "influence_cost": null,
+        "influence_cost": 1,
         "influence_pool": null,
         "is_banned": false,
         "is_banned_in_skirmish": false,
@@ -23,7 +29,7 @@
         "political": "2",
         "political_bonus": null,
         "role_restriction": null,
-        "side": "dynasty",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "You can only play this card if you control at least 3 faceup provinces.",
