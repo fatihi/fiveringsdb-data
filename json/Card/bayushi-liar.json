@@ -13,7 +13,7 @@
         "id": "bayushi-liar",
         "influence_cost": null,
         "influence_pool": null,
-        "is_banned": false,
+        "is_banned": true,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
         "military": null,
