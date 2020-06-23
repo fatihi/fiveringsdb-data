@@ -295,5 +295,14 @@
         "released_at": null,
         "ffg_id": "L5C33",
         "cycle_id": "dominion"
+    },
+    {
+        "id": "draft-pack",
+        "name": "Draft Pack",
+        "position": 1,
+        "size": 14,
+        "released_at": null,
+        "ffg_id": "DRAFT",
+        "cycle_id": "other"
     }
 ]
