@@ -1,0 +1,66 @@
+[
+  {
+      "card_id": "iron-mountain-castle",
+      "flavor": "",
+      "illustrator": "Nele Diel",
+      "image_url": "",
+      "position": "115",
+      "quantity": 1
+  },
+  {
+      "card_id": "fire-and-oil",
+      "flavor": "",
+      "illustrator": "Apterus",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/86/9c/869c32a7-123f-4b3f-8d6e-f429e484f8f0/l5c34_fire-and-oil.png",
+      "position": "118",
+      "quantity": 3
+  },
+  {
+      "card_id": "agasha-sumiko-2",
+      "flavor": "",
+      "illustrator": "Asep Ariyanto",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/c9/e7/c9e73113-88cc-48d4-9693-cf4f4eaaee51/l5c34_agasha-sumiko.png",
+      "position": "120",
+      "quantity": 3
+  },
+  {
+      "card_id": "righteous-samurai",
+      "flavor": "\"Unlike you, my actions are above reproach.\"",
+      "illustrator": "Andreia Ugrai",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/df/4f/df4fdcbc-4250-4e2b-956b-3d089a4a58ae/l5c34_righteous-samurai.png",
+      "position": "121",
+      "quantity": 3
+  },
+  {
+      "card_id": "shiba-pureheart",
+      "flavor": "",
+      "illustrator": "Guillaume Ducos",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/0d/c5/0dc5498a-43a7-4012-b516-fb4d1da634d5/l5c34_shiba-pureheart.png",
+      "position": "123",
+      "quantity": 3
+  },
+  {
+      "card_id": "worldly-shiotome",
+      "flavor": "",
+      "illustrator": "Mario Wibisono",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/01/78/01783b84-43b5-4389-a2a7-100257de574d/l5c34_worldly-shiotome.png",
+      "position": "126",
+      "quantity": 3
+  },
+  {
+      "card_id": "daidoji-yari",
+      "flavor": "At the sight of her joy, a thousand poems were born.",
+      "illustrator": "Carlos Palma Cruchaga",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/b7/f9/b7f9e52c-e5a6-4cbb-937c-137217299854/l5c34_daidoji-yari.png",
+      "position": "131",
+      "quantity": 3
+  },
+  {
+      "card_id": "compromised-secrets",
+      "flavor": "",
+      "illustrator": "Felipe Gaona",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/fa/75/fa75f2d0-78de-4445-9228-9596a036ca29/l5c34_compromised-secrets.png",
+      "position": "135",
+      "quantity": 3
+  }
+]

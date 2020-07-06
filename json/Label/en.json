@@ -404,8 +404,8 @@
         "value": "River"
     },
     {
-      "id": "trait.road",
-      "value": "Road"
+        "id": "trait.road",
+        "value": "Road"
     },
     {
         "id": "trait.ronin",
@@ -450,6 +450,10 @@
     {
         "id": "trait.shugenja",
         "value": "Shugenja"
+    },
+    {
+        "id": "trait.siege-weapon",
+        "value": "Siege Weapon"
     },
     {
         "id": "trait.skill",

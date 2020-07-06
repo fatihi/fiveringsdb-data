@@ -297,6 +297,15 @@
         "cycle_id": "dominion"
     },
     {
+        "id": "atonement",
+        "name": "Atonement",
+        "position": 6,
+        "size": 22,
+        "released_at": null,
+        "ffg_id": "L5C34",
+        "cycle_id": "dominion"
+    },
+    {
         "id": "draft-pack",
         "name": "Draft Pack",
         "position": 1,
