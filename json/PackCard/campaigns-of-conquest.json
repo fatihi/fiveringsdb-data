@@ -81,9 +81,9 @@
   },
   {
       "card_id": "celebrated-renown",
-      "flavor": "Charles Urbach",
-      "illustrator": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_81.jpg",
-      "image_url": "",
+      "flavor": "",
+      "illustrator": "Charles Urbach",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_81.jpg",
       "position": "81",
       "quantity": 3
   },
