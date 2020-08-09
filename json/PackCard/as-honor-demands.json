@@ -2,8 +2,8 @@
   {
       "card_id": "seven-fold-palace",
       "flavor": "",
-      "illustrator": "Noah Bradley",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/54/f4/54f4ca9a-bf41-482b-b0d9-5fa4e78d1804/l5c33_seven-fold-palace.png",
+      "illustrator": "",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C33_93.jpg",
       "position": "93",
       "quantity": 1
   },
@@ -23,6 +23,14 @@
       "position": "98",
       "quantity": 3
   },
+  {
+      "card_id": "master-of-many-lifetimes",
+      "flavor": "",
+      "illustrator": "Calvin Chua",
+      "image_url": "https://cdn.discordapp.com/attachments/554372984282939417/741970733567180840/unnamed.png",
+      "position": "99",
+      "quantity": 3
+},
   {
       "card_id": "asako-lawmaster",
       "flavor": "They came to her to receive a fair verdict on the child's inheritance. She sent both away with nothing, for both had approached the dispute with dishonorable rancor.",
@@ -48,6 +56,14 @@
       "quantity": 3
   },
   {
+      "card_id": "contested-countryside",
+      "flavor": "",
+      "illustrator": "Eli Ring",
+      "image_url": "",
+      "position": "106",
+      "quantity": 3
+  },
+  {
       "card_id": "elegance-and-grace",
       "flavor": "At the sight of her joy, a thousand poems were born.",
       "illustrator": "Hai Hoang",
@@ -56,11 +72,27 @@
       "quantity": 3
   },
   {
+      "card_id": "waterfall-tattoo",
+      "flavor": "\"It is a lovely design. But have you discovered its purpose?\" - Togashi Hassuno",
+      "illustrator": "Jorge Matar",
+      "image_url": "https://media.discordapp.net/attachments/316605644579012608/740969773789347980/waterfalltattoospoiler.png",
+      "position": "109",
+      "quantity": 3
+  },
+  {
       "card_id": "soshi-diviner",
       "flavor": "\"My secrets are illuminated by Ameterasu's light alone.\"",
       "illustrator": "Lin Hsiang",
       "image_url": "",
       "position": "112",
+      "quantity": 3
+  },
+  {
+      "card_id": "command-by-name",
+      "flavor": "",
+      "illustrator": "Pavel Kolomeyets",
+      "image_url": "https://media.discordapp.net/attachments/652136448715259924/741969503952568360/Spoiler.png",
+      "position": "114",
       "quantity": 3
   }
 ]
