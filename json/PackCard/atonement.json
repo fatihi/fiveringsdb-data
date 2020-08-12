@@ -8,11 +8,35 @@
       "quantity": 1
   },
   {
+      "card_id": "unbridled-ambition",
+      "flavor": "\"Sotorii would be indebted to us. Through him, you could do the things that need to be done.\" - Bayushi Kachiko",
+      "illustrator": "Leo Avero",
+      "image_url": "",
+      "position": "116",
+      "quantity": 1
+  },
+  {
+      "card_id": "weight-of-duty",
+      "flavor": "",
+      "illustrator": "Asep Ariyanto",
+      "image_url": "",
+      "position": "116",
+      "quantity": 1
+  },
+  {
       "card_id": "fire-and-oil",
       "flavor": "",
       "illustrator": "Apterus",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/86/9c/869c32a7-123f-4b3f-8d6e-f429e484f8f0/l5c34_fire-and-oil.png",
       "position": "118",
+      "quantity": 3
+  },
+  {
+      "card_id": "doji-diplomat",
+      "flavor": "\"Our clan needs strength of arms now, more than ever, and I think you can help my gain the allies we need.\" - Kakita Yoshi",
+      "illustrator": "Derek D. Edgell",
+      "image_url": "",
+      "position": "119",
       "quantity": 3
   },
   {
@@ -32,11 +56,35 @@
       "quantity": 3
   },
   {
+      "card_id": "exposed-courtyard",
+      "flavor": "",
+      "illustrator": "Nele Diel",
+      "image_url": "",
+      "position": "122",
+      "quantity": 3
+  },
+  {
       "card_id": "shiba-pureheart",
       "flavor": "",
       "illustrator": "Guillaume Ducos",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/0d/c5/0dc5498a-43a7-4012-b516-fb4d1da634d5/l5c34_shiba-pureheart.png",
       "position": "123",
+      "quantity": 3
+  },
+  {
+      "card_id": "bayushi-kachiko-2",
+      "flavor": "",
+      "illustrator": "Drazenka Kimpel",
+      "image_url": "",
+      "position": "124",
+      "quantity": 3
+  },
+  {
+      "card_id": "ganzu-warrior",
+      "flavor": "",
+      "illustrator": "Lin Hsiang",
+      "image_url": "",
+      "position": "125",
       "quantity": 3
   },
   {
@@ -48,6 +96,38 @@
       "quantity": 3
   },
   {
+      "card_id": "sudden-tempest",
+      "flavor": "",
+      "illustrator": "Nele Diel",
+      "image_url": "",
+      "position": "127",
+      "quantity": 3
+  },
+  {
+      "card_id": "apprentice-engineer",
+      "flavor": "",
+      "illustrator": "Lin Hsiang",
+      "image_url": "",
+      "position": "128",
+      "quantity": 3
+  },
+  {
+      "card_id": "inventive-buttressing",
+      "flavor": "\"It would take several oni to break these gates.\" - Kaiu Shuichi",
+      "illustrator": "Hai Hoang",
+      "image_url": "",
+      "position": "129",
+      "quantity": 3
+  },
+  {
+      "card_id": "treassured-gift",
+      "flavor": "\"What could I ever do to repay such kindness?\"",
+      "illustrator": "Carlos Palma Cruchage",
+      "image_url": "",
+      "position": "130",
+      "quantity": 3
+  },
+  {
       "card_id": "daidoji-yari",
       "flavor": "",
       "illustrator": "Carlos Palma Cruchaga",
@@ -56,11 +136,43 @@
       "quantity": 3
   },
   {
+      "card_id": "in-search-of-self",
+      "flavor": "Many pilgrims set our to discover the world. Those who find wisdom discover themselves.",
+      "illustrator": "Andreia Ugrai",
+      "image_url": "",
+      "position": "132",
+      "quantity": 3
+  },
+  {
+      "card_id": "spiritcaller-prodigy",
+      "flavor": "\"The souls of the last kitsu remain within each of us, that they might one day return in glory.\" - Kitsu Takeko",
+      "illustrator": "Andreia Ugrai",
+      "image_url": "",
+      "position": "133",
+      "quantity": 3
+  },
+  {
+      "card_id": "magistrate-s-intervention",
+      "flavor": "",
+      "illustrator": "Carlos Palma Cruchaga",
+      "image_url": "",
+      "position": "134",
+      "quantity": 3
+  },
+  {
       "card_id": "compromised-secrets",
       "flavor": "",
       "illustrator": "Felipe Gaona",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/fa/75/fa75f2d0-78de-4445-9228-9596a036ca29/l5c34_compromised-secrets.png",
       "position": "135",
+      "quantity": 3
+  },
+  {
+      "card_id": "flank-the-enemy",
+      "flavor": "",
+      "illustrator": "Imad Awan",
+      "image_url": "",
+      "position": "136",
       "quantity": 3
   }
 ]
