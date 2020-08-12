@@ -232,6 +232,10 @@
         "value": "Fort"
     },
     {
+        "id": "trait.fortification",
+        "value": "Fortification"
+    },
+    {
         "id": "trait.fox-clan",
         "value": "Fox Clan"
     },
