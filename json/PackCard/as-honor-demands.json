@@ -8,11 +8,27 @@
       "quantity": 1
   },
   {
+      "card_id": "foothills-keep",
+      "flavor": "",
+      "illustrator": "Nele Diel",
+      "image_url": "https://media.discordapp.net/attachments/697588271466676237/746019896164483092/image001.png",
+      "position": "94",
+      "quantity": 1
+  },
+  {
       "card_id": "honor-s-reward",
       "flavor": "",
       "illustrator": "John Anthony De Giovanni",
       "image_url": "",
       "position": "95",
+      "quantity": 1
+  },
+  {
+      "card_id": "hida-etsuji",
+      "flavor": "\"Let them come. We are overdue for a glorious victory.\"",
+      "illustrator": "Felipe Gaona",
+      "image_url": "https://media.discordapp.net/attachments/746249370151944265/746281403204763668/image001.png",
+      "position": "97",
       "quantity": 1
   },
   {
@@ -77,6 +93,22 @@
       "illustrator": "Jorge Matar",
       "image_url": "https://media.discordapp.net/attachments/316605644579012608/740969773789347980/waterfalltattoospoiler.png",
       "position": "109",
+      "quantity": 3
+  },
+  {
+      "card_id": "divine-ancestry",
+      "flavor": "\"I fought alongside my betrothed in his victories, as Matsu once fought beside Akodo-no-Kami.\" - Matsu Tsuko",
+      "illustrator": "Nino Vecia",
+      "image_url": "https://media.discordapp.net/attachments/746021565992402985/746021867483037816/image001.png",
+      "position": "110",
+      "quantity": 3
+  },
+  {
+      "card_id": "the-receding-tide",
+      "flavor": "",
+      "illustrator": "Pavel Kolomeyets",
+      "image_url": "https://media.discordapp.net/attachments/697588271466676237/746017872530112552/TheRecedingTide.png",
+      "position": "111",
       "quantity": 3
   },
   {
