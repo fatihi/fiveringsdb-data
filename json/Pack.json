@@ -306,6 +306,24 @@
         "cycle_id": "dominion"
     },
     {
+        "id": "twisted-loyalties",
+        "name": "Twisted Loyalties",
+        "position": 1,
+        "size": 22,
+        "released_at": null,
+        "ffg_id": "L5C36",
+        "cycle_id": "temptations"
+    },
+    {
+        "id": "honor-in-flames",
+        "name": "Honor in Flames",
+        "position": 2,
+        "size": 22,
+        "released_at": null,
+        "ffg_id": "L5C37",
+        "cycle_id": "temptations"
+    },
+    {
         "id": "draft-pack",
         "name": "Draft Pack",
         "position": 1,

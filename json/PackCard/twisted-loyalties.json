@@ -1,0 +1,66 @@
+[
+  {
+      "card_id": "diplomatic-gift-giver",
+      "flavor": "Each gift forms the foundation of future favor.",
+      "illustrator": "Joshua Cairos",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/01/8a/018ae3d2-c28a-44bd-a589-d7182920b104/l5c36_cardsingles_diplomaticgiftgiver.png",
+      "position": "5",
+      "quantity": 3
+  },
+  {
+      "card_id": "revered-ikoma",
+      "flavor": "",
+      "illustrator": "Hai Hoang",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/83/b9/83b97f5b-33b7-4025-85ab-2841ca6d20fd/l5c36_cardsingles_reveredikoma.png",
+      "position": "8",
+      "quantity": 3
+  },
+  {
+      "card_id": "procedural-interference",
+      "flavor": "The interruption was unorthodox, but none present could gainsay her.",
+      "illustrator": "Lukas Banas",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/af/ea/afeafe9a-2fa8-42ec-a25d-d671f35bc9fa/l5c36_cardsingles_proceduralinterference.png",
+      "position": "9",
+      "quantity": 3
+  },
+  {
+      "card_id": "khanbulak-benefactor",
+      "flavor": "",
+      "illustrator": "Marius Bota",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/91/bc/91bcae69-271e-4b41-93b4-a48b1a1e4f95/l5c36_cardsingles_khanbulakbenefactor.png",
+      "position": "12",
+      "quantity": 3
+  },
+  {
+      "card_id": "exemplary-etiquette",
+      "flavor": "His gentle courtesy eased the hearts of his guests, until they found themselves unwilling to confront him over his vassal's undue aggression.",
+      "illustrator": "Lin Hsiang",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/1f/aa/1faa89bb-0b5c-49b8-bc5e-5438efa16e53/l5c36_cardsingle_exemplaryetiquette.png",
+      "position": "15",
+      "quantity": 3
+  },
+  {
+      "card_id": "superior-authority",
+      "flavor": "\"Doji Kayo-san, you are not dismissed. Our tea is not yet finished.\"",
+      "illustrator": "Lin Hsiang",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/65/a9/65a92973-8119-46c3-9ab3-b921011c9af8/l5c36_cardsingle_superiorauthority.png",
+      "position": "16",
+      "quantity": 3
+  },
+  {
+      "card_id": "renowned-singer",
+      "flavor": "",
+      "illustrator": "Drazenka Kimpel",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/19/1f/191f6bdf-bce4-423d-9955-a80073177934/l5c36_cardsingle_renownedsinger.png",
+      "position": "18",
+      "quantity": 3
+  },
+  {
+      "card_id": "make-your-case",
+      "flavor": "",
+      "illustrator": "Joshua Cairos",
+      "image_url": "",
+      "position": "22",
+      "quantity": 3
+  }
+]

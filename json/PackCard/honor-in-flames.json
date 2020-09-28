@@ -1,0 +1,74 @@
+[
+  {
+      "card_id": "the-roar-of-the-lioness",
+      "flavor": "\"I am a samurai of the Lion Clan, and I can no longer bear to see it kept low.\" - Matsu Tsuko",
+      "illustrator": "Stormbrush",
+      "image_url": "",
+      "position": "24",
+      "quantity": 1
+  },
+  {
+      "card_id": "steward-of-cryptic-lore",
+      "flavor": "",
+      "illustrator": "Lukas Banas",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/ca/79/ca7966a0-93ca-4e1f-bf0e-853d2435dab6/l5c37_steward-of-cryptic-lore.png",
+      "position": "31",
+      "quantity": 3
+  },
+  {
+      "card_id": "guardian-dojo",
+      "flavor": "Any who wish to train in the defense of others is welcome among the Shiba.",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "32",
+      "quantity": 3
+  },
+  {
+      "card_id": "shoju-s-diviner",
+      "flavor": "",
+      "illustrator": "Marius Bota",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/41/74/4174b347-94da-48ea-b987-422bd8d8883f/l5c37_shojus-diviner.png",
+      "position": "33",
+      "quantity": 3
+  },
+  {
+      "card_id": "nimble-noyan",
+      "flavor": "",
+      "illustrator": "Stormbrush",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/ce/a3/cea3b5c1-59ef-45fa-aab2-be2d02ec9f32/l5c37_nimble-noyan.png",
+      "position": "34",
+      "quantity": 3
+  },
+  {
+      "card_id": "darkness-rising",
+      "flavor": "",
+      "illustrator": "Apterus",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/71/35/7135da1e-e8db-42c1-9597-b2756ec13117/l5c37_darkness-rising.png",
+      "position": "36",
+      "quantity": 3
+  },
+  {
+      "card_id": "raze-to-the-ground",
+      "flavor": "",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "38",
+      "quantity": 3
+  },
+  {
+      "card_id": "unhallow",
+      "flavor": "",
+      "illustrator": "Imad Awan",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/90/45/90450013-c906-487c-9991-3ab2db995703/l5c37_unhallow.png",
+      "position": "40",
+      "quantity": 3
+  },
+  {
+      "card_id": "shadow-steed",
+      "flavor": "",
+      "illustrator": "Stormbrush",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/38/55/38552352-05a5-4e68-b100-f946df5d5c0a/l5c37_shadow-steed.png",
+      "position": "43",
+      "quantity": 3
+  }
+]
