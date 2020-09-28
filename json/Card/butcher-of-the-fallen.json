@@ -26,7 +26,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i>\nWhile this character is attacking, characters with printed [conflict-military] skill X or lower cannot be declared as defenders, where X is the number of unbroken provinces you control.",
+        "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i>\nWhile this character is attacking, characters with less [conflict-military] skill than the number of unbroken provinces you control cannot be declared as defenders.\n<i>Errata from RRG v15 (2020-10-05)</i>",
         "traits": [
             "bushi",
             "berserker"
