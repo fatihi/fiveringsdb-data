@@ -1,0 +1,90 @@
+[
+  {
+      "card_id": "by-onnotangu-s-light",
+      "flavor": "TODO",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "47",
+      "quantity": 1
+  },
+  {
+      "card_id": "damned-hida",
+      "flavor": "\"While my honor cannot be redeemed, my service can still be fulfilled\"",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "48",
+      "quantity": 3
+  },
+  {
+      "card_id": "togashi-kazue-2",
+      "flavor": "The Empire is fast approaching a time where both madness and enlightenment will be needed.",
+      "illustrator": "Borja Pindado",
+      "image_url": "",
+      "position": "50",
+      "quantity": 3
+  },
+  {
+      "card_id": "kaito-mai",
+      "flavor": "\"I cannot abandon even a kansen to endless suffering.\"",
+      "illustrator": "Marius Bota",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/55/13/5513d6ff-f382-4492-b13c-22f237d7bbb7/l5c38_kaito-mai.png",
+      "position": "53",
+      "quantity": 3
+  },
+  {
+      "card_id": "yogo-paramour",
+      "flavor": "",
+      "illustrator": "Drazenka Kimpel",
+      "image_url": "",
+      "position": "54",
+      "quantity": 3
+  },
+  {
+      "card_id": "iuchi-shahai-2",
+      "flavor": "\"I can help you, my prince, if you will allow me.\"",
+      "illustrator": "Apterus",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/ae/06/ae0689e0-547d-4b3b-80ec-06fd04d82ecd/l5c38_iuchi-shahai.png",
+      "position": "56",
+      "quantity": 3
+  },
+  {
+      "card_id": "resourceful-maho-tsukai",
+      "flavor": "",
+      "illustrator": "Peter Polach",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/23/f6/23f61f7b-817d-4937-8232-3e309f442cc4/l5c38_resourceful-maho-tsukai.png",
+      "position": "57",
+      "quantity": 3
+  },
+  {
+      "card_id": "tetsubo-of-blood",
+      "flavor": "",
+      "illustrator": "Piotr Arendzikowski",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/94/8b/948be825-b775-4af7-b130-c1b16c93a1fd/l5c38_tetsubo-of-blood.png",
+      "position": "58",
+      "quantity": 3
+  },
+  {
+      "card_id": "sanguine-mastery",
+      "flavor": "",
+      "illustrator": "Carlos Diaz",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/3a/63/3a6367a5-ed57-45c1-85b7-c0c279721758/l5c38_sanguine-mastery.png",
+      "position": "63",
+      "quantity": 3
+  },
+  {
+      "card_id": "seize-the-mind",
+      "flavor": "",
+      "illustrator": "Jorge Matar",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/d7/05/d7051e7c-cd97-4969-896c-23a300cce2bc/l5c38_seize-the-mind.png",
+      "position": "64",
+      "quantity": 3
+  },
+  {
+      "card_id": "bonds-of-blood",
+      "flavor": "",
+      "illustrator": "Pavel Kolomeyets",
+      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/70/4a/704a3156-f95e-40dc-afd8-d64c56b716c9/l5c38_bonds-of-blood.png",
+      "position": "66",
+      "quantity": 3
+  }
+]

@@ -324,6 +324,15 @@
         "cycle_id": "temptations"
     },
     {
+        "id": "a-crimson-offering",
+        "name": "A Crimson Offering",
+        "position": 3,
+        "size": 22,
+        "released_at": null,
+        "ffg_id": "L5C38",
+        "cycle_id": "temptations"
+    },
+    {
         "id": "draft-pack",
         "name": "Draft Pack",
         "position": 1,
