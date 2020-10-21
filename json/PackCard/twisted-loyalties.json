@@ -1,10 +1,34 @@
 [
   {
+      "card_id": "the-scorpion-clan-coup",
+      "flavor": "\"A Scorpion on the throne, even with an edict behind him, cannot be trusted.\" - Asako Togama",
+      "illustrator": "Tommy Suhartono",
+      "image_url": "https://scontent.ffra1-1.fna.fbcdn.net/v/t1.0-9/121966629_10217825877470330_6502799757674871825_n.jpg?_nc_cat=100&_nc_sid=825194&_nc_ohc=W8_B0Z0D-XUAX9yrxEX&_nc_ht=scontent.ffra1-1.fna&oh=04c8160f6bbef693c5be48d3471201dc&oe=5FB5A30F",
+      "position": "1",
+      "quantity": 1
+  },
+  {
       "card_id": "diplomatic-gift-giver",
       "flavor": "Each gift forms the foundation of future favor.",
       "illustrator": "Joshua Cairos",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/01/8a/018ae3d2-c28a-44bd-a589-d7182920b104/l5c36_cardsingles_diplomaticgiftgiver.png",
       "position": "5",
+      "quantity": 3
+  },
+  {
+      "card_id": "keen-warrior",
+      "flavor": "",
+      "illustrator": "Immar Palomera",
+      "image_url": "https://media.discordapp.net/attachments/316605644579012608/768295972148477962/image001.png",
+      "position": "6",
+      "quantity": 3
+  },
+  {
+      "card_id": "overlooked-community",
+      "flavor": "\"Only one who relinquishes fear is truly free.\" - Tao of Shinsei",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "7",
       "quantity": 3
   },
   {
@@ -45,6 +69,14 @@
       "illustrator": "Lin Hsiang",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/65/a9/65a92973-8119-46c3-9ab3-b921011c9af8/l5c36_cardsingle_superiorauthority.png",
       "position": "16",
+      "quantity": 3
+  },
+  {
+      "card_id": "self-understanding",
+      "flavor": "",
+      "illustrator": "Guillaume Ducos",
+      "image_url": "https://media.discordapp.net/attachments/316605644579012608/768193725108453476/image001.png",
+      "position": "17",
       "quantity": 3
   },
   {
