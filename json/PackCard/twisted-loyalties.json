@@ -8,6 +8,14 @@
       "quantity": 1
   },
   {
+      "card_id": "brushfires",
+      "flavor": "TODO",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "2",
+      "quantity": 1
+  },
+  {
       "card_id": "watchtower-of-sun-s-shadow",
       "flavor": "",
       "illustrator": "Nele Diel",
@@ -56,11 +64,35 @@
       "quantity": 3
   },
   {
+      "card_id": "asako-maezawa-2",
+      "flavor": "\"We can only relate to pain that is our own.\"",
+      "illustrator": "Lin Hsiang",
+      "image_url": "https://media.discordapp.net/attachments/697588271466676237/769231677578805259/Asako_Maezawa_card.png",
+      "position": "10",
+      "quantity": 3
+  },
+  {
       "card_id": "khanbulak-benefactor",
       "flavor": "",
       "illustrator": "Marius Bota",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/91/bc/91bcae69-271e-4b41-93b4-a48b1a1e4f95/l5c36_cardsingles_khanbulakbenefactor.png",
       "position": "12",
+      "quantity": 3
+  },
+  {
+      "card_id": "chikara",
+      "flavor": "",
+      "illustrator": "Carlos Palma Cruchaga",
+      "image_url": "https://media.discordapp.net/attachments/316605644579012608/768146827399790634/0.png",
+      "position": "13",
+      "quantity": 3
+  },
+  {
+      "card_id": "guardians-of-rokugan",
+      "flavor": "",
+      "illustrator": "Imad Awan",
+      "image_url": "",
+      "position": "14",
       "quantity": 3
   },
   {
@@ -93,6 +125,14 @@
       "illustrator": "Drazenka Kimpel",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/19/1f/191f6bdf-bce4-423d-9955-a80073177934/l5c36_cardsingle_renownedsinger.png",
       "position": "18",
+      "quantity": 3
+  },
+  {
+      "card_id": "heresy",
+      "flavor": "",
+      "illustrator": "Guillaume Ducos",
+      "image_url": "https://media.discordapp.net/attachments/316605644579012608/768797250335801345/image0.png",
+      "position": "19",
       "quantity": 3
   },
   {
