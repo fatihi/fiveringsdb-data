@@ -5,7 +5,7 @@
         "illustrator": "Hai Hoang",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_1.jpg",
         "position": "1",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "illustrious-forge",
@@ -13,7 +13,7 @@
         "illustrator": "Matt Zeilinger",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_2.jpg",
         "position": "2",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "midnight-revels",
@@ -21,7 +21,7 @@
         "illustrator": "Hai Hoang",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_3.jpg",
         "position": "3",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "temple-of-the-dragons",
@@ -29,7 +29,7 @@
         "illustrator": "Leanna Crossan",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_4.jpg",
         "position": "4",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "vassal-fields",
@@ -37,7 +37,7 @@
         "illustrator": "IFS",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_5.jpg",
         "position": "5",
-        "quantity": 1  
+        "quantity": 1
     },
     {
         "card_id": "daring-challenger",
@@ -173,7 +173,7 @@
         "illustrator": "Lin Hsiang",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_22.jpg",
         "position": "22",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "student-of-war",
@@ -186,10 +186,10 @@
     {
         "card_id": "matsu-tsuko",
         "flavor": "\"We take what we want by strength of honor, or not at all.\"",
-        "illustrator": "Isuardo Therianto",
+        "illustrator": "Isuardi Therianto",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_24.jpg",
         "position": "24",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "tactician-s-camp",
@@ -197,7 +197,7 @@
         "illustrator": "Lukas Banas",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_25.jpg",
         "position": "25",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "fire-tensai-acolyte",
@@ -229,7 +229,7 @@
         "illustrator": "Arif Wijawa",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_29.jpg",
         "position": "29",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "ancestral-shrine",
@@ -237,7 +237,7 @@
         "illustrator": "John Donahue",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_30.jpg",
         "position": "30",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "loyal-challenger",
@@ -253,7 +253,7 @@
         "illustrator": "Conceptopolis",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_32.jpg",
         "position": "32",
-        "quantity": 3  
+        "quantity": 3
     },
 	{
         "card_id": "attendant-to-the-emperor",
@@ -261,7 +261,7 @@
         "illustrator": "Andreia Ugrai",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_33.jpg",
         "position": "33",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "social-puppeteer",
@@ -509,7 +509,7 @@
         "illustrator": "Sergio Camarena",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_64.jpg",
         "position": "64",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "unmatched-expertise",
@@ -517,7 +517,7 @@
         "illustrator": "Diego Gisbert Llorens",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_65.jpg",
         "position": "65",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "gift-of-amaterasu",
@@ -525,7 +525,7 @@
         "illustrator": "Stephanie Pui-Mun Law",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_66.jpg",
         "position": "66",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "severed-from-the-stream",
@@ -533,7 +533,7 @@
         "illustrator": "Reiko Murakami",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C16_67.jpg",
         "position": "67",
-        "quantity": 3  
+        "quantity": 3
     },
     {
         "card_id": "subdue-the-spirits",

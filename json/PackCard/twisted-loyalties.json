@@ -24,6 +24,14 @@
       "quantity": 1
   },
   {
+      "card_id": "yasuki-oguri-2",
+      "flavor": "\"Take this as a symbol of our goodwill.\"",
+      "illustrator": "Guillaume Ducos",
+      "image_url": "https://media.discordapp.net/attachments/697588271466676237/770222159175745536/oguri.png",
+      "position": "4",
+      "quantity": 3
+  },
+  {
       "card_id": "diplomatic-gift-giver",
       "flavor": "Each gift forms the foundation of future favor.",
       "illustrator": "Joshua Cairos",
@@ -69,6 +77,14 @@
       "illustrator": "Lin Hsiang",
       "image_url": "https://media.discordapp.net/attachments/697588271466676237/769231677578805259/Asako_Maezawa_card.png",
       "position": "10",
+      "quantity": 3
+  },
+  {
+      "card_id": "sinister-peacekeeper",
+      "flavor": "\"Do you truly wish for open war between our clans?\"",
+      "illustrator": "Isuardi Therianto",
+      "image_url": "",
+      "position": "11",
       "quantity": 3
   },
   {
@@ -133,6 +149,14 @@
       "illustrator": "Guillaume Ducos",
       "image_url": "https://media.discordapp.net/attachments/316605644579012608/768797250335801345/image0.png",
       "position": "19",
+      "quantity": 3
+  },
+  {
+      "card_id": "kunshu",
+      "flavor": "",
+      "illustrator": "Carlos Palma Cruchaga",
+      "image_url": "",
+      "position": "20",
       "quantity": 3
   },
   {
