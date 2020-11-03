@@ -3,15 +3,15 @@
       "card_id": "the-scorpion-clan-coup",
       "flavor": "\"A Scorpion on the throne, even with an edict behind him, cannot be trusted.\" - Asako Togama",
       "illustrator": "Tommy Suhartono",
-      "image_url": "https://scontent.ffra1-1.fna.fbcdn.net/v/t1.0-9/121966629_10217825877470330_6502799757674871825_n.jpg?_nc_cat=100&_nc_sid=825194&_nc_ohc=W8_B0Z0D-XUAX9yrxEX&_nc_ht=scontent.ffra1-1.fna&oh=04c8160f6bbef693c5be48d3471201dc&oe=5FB5A30F",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_1.jpg",
       "position": "1",
       "quantity": 1
   },
   {
       "card_id": "brushfires",
-      "flavor": "TODO",
-      "illustrator": "TODO",
-      "image_url": "",
+      "flavor": "\"This is no time for glory!\"",
+      "illustrator": "Eli Ring",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_2.jpg",
       "position": "2",
       "quantity": 1
   },
@@ -19,7 +19,7 @@
       "card_id": "watchtower-of-sun-s-shadow",
       "flavor": "",
       "illustrator": "Nele Diel",
-      "image_url": "",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_3.jpg",
       "position": "3",
       "quantity": 1
   },
@@ -27,7 +27,7 @@
       "card_id": "yasuki-oguri-2",
       "flavor": "\"Take this as a symbol of our goodwill.\"",
       "illustrator": "Guillaume Ducos",
-      "image_url": "https://media.discordapp.net/attachments/697588271466676237/770222159175745536/oguri.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_4.jpg",
       "position": "4",
       "quantity": 3
   },
@@ -35,7 +35,7 @@
       "card_id": "diplomatic-gift-giver",
       "flavor": "Each gift forms the foundation of future favor.",
       "illustrator": "Joshua Cairos",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/01/8a/018ae3d2-c28a-44bd-a589-d7182920b104/l5c36_cardsingles_diplomaticgiftgiver.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_5.jpg",
       "position": "5",
       "quantity": 3
   },
@@ -43,15 +43,15 @@
       "card_id": "keen-warrior",
       "flavor": "",
       "illustrator": "Immar Palomera",
-      "image_url": "https://media.discordapp.net/attachments/316605644579012608/768295972148477962/image001.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_6.jpg",
       "position": "6",
       "quantity": 3
   },
   {
       "card_id": "overlooked-community",
       "flavor": "\"Only one who relinquishes fear is truly free.\" - Tao of Shinsei",
-      "illustrator": "TODO",
-      "image_url": "",
+      "illustrator": "Logan Filiciano",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_7.jpg",
       "position": "7",
       "quantity": 3
   },
@@ -59,7 +59,7 @@
       "card_id": "revered-ikoma",
       "flavor": "",
       "illustrator": "Hai Hoang",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/83/b9/83b97f5b-33b7-4025-85ab-2841ca6d20fd/l5c36_cardsingles_reveredikoma.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_8.jpg",
       "position": "8",
       "quantity": 3
   },
@@ -67,7 +67,7 @@
       "card_id": "procedural-interference",
       "flavor": "The interruption was unorthodox, but none present could gainsay her.",
       "illustrator": "Lukas Banas",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/af/ea/afeafe9a-2fa8-42ec-a25d-d671f35bc9fa/l5c36_cardsingles_proceduralinterference.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_9.jpg",
       "position": "9",
       "quantity": 3
   },
@@ -75,7 +75,7 @@
       "card_id": "asako-maezawa-2",
       "flavor": "\"We can only relate to pain that is our own.\"",
       "illustrator": "Lin Hsiang",
-      "image_url": "https://media.discordapp.net/attachments/697588271466676237/769231677578805259/Asako_Maezawa_card.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_10.jpg",
       "position": "10",
       "quantity": 3
   },
@@ -83,7 +83,7 @@
       "card_id": "sinister-peacekeeper",
       "flavor": "\"Do you truly wish for open war between our clans?\"",
       "illustrator": "Isuardi Therianto",
-      "image_url": "https://cdn.discordapp.com/attachments/652136448715259924/771618784548618250/image001_1.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_11.jpg",
       "position": "11",
       "quantity": 3
   },
@@ -91,7 +91,7 @@
       "card_id": "khanbulak-benefactor",
       "flavor": "",
       "illustrator": "Marius Bota",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/91/bc/91bcae69-271e-4b41-93b4-a48b1a1e4f95/l5c36_cardsingles_khanbulakbenefactor.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_12.jpg",
       "position": "12",
       "quantity": 3
   },
@@ -99,7 +99,7 @@
       "card_id": "chikara",
       "flavor": "",
       "illustrator": "Carlos Palma Cruchaga",
-      "image_url": "https://media.discordapp.net/attachments/316605644579012608/768146827399790634/0.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_13.jpg",
       "position": "13",
       "quantity": 3
   },
@@ -107,7 +107,7 @@
       "card_id": "guardians-of-rokugan",
       "flavor": "",
       "illustrator": "Imad Awan",
-      "image_url": "https://media.discordapp.net/attachments/746021565992402985/769934523222851654/image001.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_14.jpg",
       "position": "14",
       "quantity": 3
   },
@@ -115,7 +115,7 @@
       "card_id": "exemplary-etiquette",
       "flavor": "His gentle courtesy eased the hearts of his guests, until they found themselves unwilling to confront him over his vassal's undue aggression.",
       "illustrator": "Lin Hsiang",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/1f/aa/1faa89bb-0b5c-49b8-bc5e-5438efa16e53/l5c36_cardsingle_exemplaryetiquette.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_15.jpg",
       "position": "15",
       "quantity": 3
   },
@@ -123,7 +123,7 @@
       "card_id": "superior-authority",
       "flavor": "\"Doji Kayo-san, you are not dismissed. Our tea is not yet finished.\"",
       "illustrator": "Lin Hsiang",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/65/a9/65a92973-8119-46c3-9ab3-b921011c9af8/l5c36_cardsingle_superiorauthority.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_16.jpg",
       "position": "16",
       "quantity": 3
   },
@@ -131,7 +131,7 @@
       "card_id": "self-understanding",
       "flavor": "",
       "illustrator": "Guillaume Ducos",
-      "image_url": "https://media.discordapp.net/attachments/316605644579012608/768193725108453476/image001.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_17.jpg",
       "position": "17",
       "quantity": 3
   },
@@ -139,7 +139,7 @@
       "card_id": "renowned-singer",
       "flavor": "",
       "illustrator": "Drazenka Kimpel",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/19/1f/191f6bdf-bce4-423d-9955-a80073177934/l5c36_cardsingle_renownedsinger.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_18.jpg",
       "position": "18",
       "quantity": 3
   },
@@ -147,7 +147,7 @@
       "card_id": "heresy",
       "flavor": "",
       "illustrator": "Guillaume Ducos",
-      "image_url": "https://media.discordapp.net/attachments/316605644579012608/768797250335801345/image0.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_19.jpg",
       "position": "19",
       "quantity": 3
   },
@@ -155,15 +155,23 @@
       "card_id": "kunshu",
       "flavor": "",
       "illustrator": "Carlos Palma Cruchaga",
-      "image_url": "",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_20.jpg",
       "position": "20",
+      "quantity": 3
+  },
+  {
+      "card_id": "daughter-of-war",
+      "flavor": "",
+      "illustrator": "Borja Pindado",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_21.jpg",
+      "position": "21",
       "quantity": 3
   },
   {
       "card_id": "make-your-case",
       "flavor": "",
       "illustrator": "Joshua Cairos",
-      "image_url": "",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_22.jpg",
       "position": "22",
       "quantity": 3
   }
