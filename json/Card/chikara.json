@@ -26,7 +26,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Attach to a unique [clan-crab] character.\nAncestral. Restricted.\nIf attached character has the <em>Champion</em> trait, it gains \"<b>Reaction:</b> After this character wins a conflict, choose a participating character - this character's controller moves all fate from it to their fate pool, then sacrifices it.\"",
+        "text": "Attach to a unique [clan-crab] character.\nAncestral. Restricted.\nIf attached character has the <em>Champion</em> trait, it gains \"<b>Reaction:</b> After this character wins a conflict, choose a participating character - that character's controller moves all fate from it to their fate pool, then sacrifices it.\"",
         "traits": [
             "weapon"
         ],
