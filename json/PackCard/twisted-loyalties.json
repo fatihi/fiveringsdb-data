@@ -16,20 +16,20 @@
       "quantity": 1
   },
   {
+    "card_id": "yasuki-oguri-2",
+    "flavor": "\"Take this as a symbol of our goodwill.\"",
+    "illustrator": "Guillaume Ducos",
+    "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_3.jpg",
+    "position": "3",
+    "quantity": 3
+  },
+  {
       "card_id": "watchtower-of-sun-s-shadow",
       "flavor": "",
       "illustrator": "Nele Diel",
-      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_3.jpg",
-      "position": "3",
-      "quantity": 1
-  },
-  {
-      "card_id": "yasuki-oguri-2",
-      "flavor": "\"Take this as a symbol of our goodwill.\"",
-      "illustrator": "Guillaume Ducos",
       "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_4.jpg",
       "position": "4",
-      "quantity": 3
+      "quantity": 1
   },
   {
       "card_id": "diplomatic-gift-giver",
