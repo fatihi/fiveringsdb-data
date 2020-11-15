@@ -1,11 +1,67 @@
 [
   {
+      "card_id": "the-way-of-peace",
+      "flavor": "\"Let them see the beauty you have created and they shall bear witness to their shame.\"",
+      "illustrator": "Eli Ring",
+      "image_url": "",
+      "position": "23",
+      "quantity": 1
+  },
+  {
       "card_id": "the-roar-of-the-lioness",
       "flavor": "\"I am a samurai of the Lion Clan, and I can no longer bear to see it kept low.\" - Matsu Tsuko",
       "illustrator": "Stormbrush",
       "image_url": "",
       "position": "24",
       "quantity": 1
+  },
+  {
+      "card_id": "cycle-of-vengeance",
+      "flavor": "\"I will never forget the sound of my brother's lifeless body striking the ground at his hand.\" - Mirumoto Hitomi",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "25",
+      "quantity": 1
+  },
+  {
+      "card_id": "silent-skirmisher",
+      "flavor": "Even the warriors of the Crab whisper fearfully of the uncanny efficiency illustrated by Forgotten samurai.",
+      "illustrator": "Jason Juta",
+      "image_url": "",
+      "position": "26",
+      "quantity": 3
+  },
+  {
+      "card_id": "master-of-jade",
+      "flavor": "\"I will not allow the Taint to take you.\"",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "27",
+      "quantity": 3
+  },
+  {
+      "card_id": "daidoji-uji-2",
+      "flavor": "",
+      "illustrator": "Joshua Cairos",
+      "image_url": "",
+      "position": "28",
+      "quantity": 3
+  },
+  {
+      "card_id": "perfect-land-believer",
+      "flavor": "\"If they think to deny us Shinsei's salvation, we will take our fate into our own hands.\"",
+      "illustrator": "Isuardi Therianto",
+      "image_url": "",
+      "position": "29",
+      "quantity": 3
+  },
+  {
+      "card_id": "commander-of-the-legions",
+      "flavor": "",
+      "illustrator": "Stormbrush",
+      "image_url": "",
+      "position": "30",
+      "quantity": 3
   },
   {
       "card_id": "steward-of-cryptic-lore",
@@ -18,7 +74,7 @@
   {
       "card_id": "guardian-dojo",
       "flavor": "Any who wish to train in the defense of others is welcome among the Shiba.",
-      "illustrator": "TODO",
+      "illustrator": "Logan Feliciano",
       "image_url": "",
       "position": "32",
       "quantity": 3
@@ -40,6 +96,14 @@
       "quantity": 3
   },
   {
+      "card_id": "reserve-tents",
+      "flavor": "",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "35",
+      "quantity": 3
+  },
+  {
       "card_id": "darkness-rising",
       "flavor": "",
       "illustrator": "Apterus",
@@ -52,7 +116,23 @@
       "flavor": "",
       "illustrator": "TODO",
       "image_url": "",
+      "position": "37",
+      "quantity": 3
+  },
+  {
+      "card_id": "shoshi-ni-kie",
+      "flavor": "\"If it gets me through the day, it is enough.\"",
+      "illustrator": "Eli Ring",
+      "image_url": "",
       "position": "38",
+      "quantity": 3
+  },
+  {
+      "card_id": "under-amaterasu-s-gaze",
+      "flavor": "",
+      "illustrator": "TODO",
+      "image_url": "",
+      "position": "39",
       "quantity": 3
   },
   {
@@ -64,11 +144,35 @@
       "quantity": 3
   },
   {
+      "card_id": "messenger-of-misery",
+      "flavor": "Dread drove him faster than his own heartbeat. If his lord could not prevail, what could even the regent do against such demonic power? Yet, if he failed to reach Shoju in time, what hope remained?",
+      "illustrator": "Guillaume Ducos",
+      "image_url": "",
+      "position": "41",
+      "quantity": 3
+  },
+  {
+      "card_id": "shape-the-flesh",
+      "flavor": "",
+      "illustrator": "Apterus",
+      "image_url": "",
+      "position": "42",
+      "quantity": 3
+  },
+  {
       "card_id": "shadow-steed",
       "flavor": "",
       "illustrator": "Stormbrush",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/38/55/38552352-05a5-4e68-b100-f946df5d5c0a/l5c37_shadow-steed.png",
       "position": "43",
+      "quantity": 3
+  },
+  {
+      "card_id": "curse-of-misfortune",
+      "flavor": "\"Do you think to mock me, little spider? I will not let you ruin the first profitable job I've seen in weeks with your boldness.\"",
+      "illustrator": "Borja Pindado",
+      "image_url": "",
+      "position": "44",
       "quantity": 3
   }
 ]
