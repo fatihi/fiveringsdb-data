@@ -16,7 +16,7 @@
         "is_banned": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
-        "military": "0",
+        "military": "1",
         "military_bonus": null,
         "name": "Silent Skirmisher",
         "name_extra": null,
