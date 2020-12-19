@@ -32,7 +32,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Reduce the cost to play this card by 2 if your opponent has 4 or more facedown cards in their provinces.\n<b>Action:</b> During a conflict, reveal each facedown card in your opponent's provinces. Then, choose up to 2 characters in their provinces - put those characters into play in the conflict under your control.",
+        "text": "Reduce the cost to play this card by 2 if your opponent has 4 or more facedown cards in their provinces.\n<b>Action:</b> During a conflict - reveal each facedown card in your opponent's provinces. Then, put up to 2 characters with total printed cost 6 or lower from their provinces into play in the conflict under your control.\n<i>Errata from RRG v16 (2021-01-05)</i>",
         "traits": [],
         "type": "event",
         "unicity": false
