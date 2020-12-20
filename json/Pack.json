@@ -342,6 +342,15 @@
         "cycle_id": "temptations"
     },
     {
+        "id": "coils-of-power",
+        "name": "Coils of Power",
+        "position": 5,
+        "size": 22,
+        "released_at": null,
+        "ffg_id": "L5C40",
+        "cycle_id": "temptations"
+    },
+    {
         "id": "draft-pack",
         "name": "Draft Pack",
         "position": 1,
