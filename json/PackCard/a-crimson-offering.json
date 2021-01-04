@@ -1,33 +1,73 @@
 [
   {
+      "card_id": "the-eternal-watch",
+      "flavor": "",
+      "illustrator": "Piotr Arendzikowski",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_45.jpg",
+      "position": "45",
+      "quantity": 1
+  },
+  {
+      "card_id": "seeking-enlightenment",
+      "flavor": "\"The path to enlightenment is one that must be walked alone.\" - Togashi Hassuno",
+      "illustrator": "Imad Awan",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_46.jpg",
+      "position": "46",
+      "quantity": 1
+  },
+  {
       "card_id": "by-onnotangu-s-light",
-      "flavor": "TODO",
-      "illustrator": "TODO",
-      "image_url": "",
+      "flavor": "A single night can change the course of history",
+      "illustrator": "Borja Pindado",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_47.jpg",
       "position": "47",
       "quantity": 1
   },
   {
       "card_id": "damned-hida",
       "flavor": "\"While my honor cannot be redeemed, my service can still be fulfilled\"",
-      "illustrator": "TODO",
-      "image_url": "",
+      "illustrator": "Carlos Diaz",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_48.jpg",
       "position": "48",
+      "quantity": 3
+  },
+  {
+      "card_id": "desperate-negotiator",
+      "flavor": "With the capital in chaos, any hope that the violence throughout Rokugan could be brought to an end faded into memory.",
+      "illustrator": "Guillaume Ducos",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_49.jpg",
+      "position": "49",
       "quantity": 3
   },
   {
       "card_id": "togashi-kazue-2",
       "flavor": "The Empire is fast approaching a time where both madness and enlightenment will be needed.",
       "illustrator": "Borja Pindado",
-      "image_url": "",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_50.jpg",
       "position": "50",
+      "quantity": 3
+  },
+  {
+      "card_id": "lion-s-pride-paragon",
+      "flavor": "\"I shall not stop fighting until the honor of the Lion has been avenged.\"",
+      "illustrator": "Stormbrush",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_51.jpg",
+      "position": "51",
+      "quantity": 3
+  },
+  {
+      "card_id": "forward-garrison",
+      "flavor": "",
+      "illustrator": "",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_52.jpg",
+      "position": "52",
       "quantity": 3
   },
   {
       "card_id": "kaito-mai",
       "flavor": "\"I cannot abandon even a kansen to endless suffering.\"",
       "illustrator": "Marius Bota",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/55/13/5513d6ff-f382-4492-b13c-22f237d7bbb7/l5c38_kaito-mai.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_53.jpg",
       "position": "53",
       "quantity": 3
   },
@@ -35,15 +75,23 @@
       "card_id": "yogo-paramour",
       "flavor": "",
       "illustrator": "Drazenka Kimpel",
-      "image_url": "",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_54.jpg",
       "position": "54",
+      "quantity": 3
+  },
+  {
+      "card_id": "shadowed-village",
+      "flavor": "",
+      "illustrator": "Daria Khlebnikova",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_55.jpg",
+      "position": "55",
       "quantity": 3
   },
   {
       "card_id": "iuchi-shahai-2",
       "flavor": "\"I can help you, my prince, if you will allow me.\"",
       "illustrator": "Apterus",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/ae/06/ae0689e0-547d-4b3b-80ec-06fd04d82ecd/l5c38_iuchi-shahai.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_56.jpg",
       "position": "56",
       "quantity": 3
   },
@@ -51,7 +99,7 @@
       "card_id": "resourceful-maho-tsukai",
       "flavor": "",
       "illustrator": "Peter Polach",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/23/f6/23f61f7b-817d-4937-8232-3e309f442cc4/l5c38_resourceful-maho-tsukai.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_57.jpg",
       "position": "57",
       "quantity": 3
   },
@@ -59,15 +107,47 @@
       "card_id": "tetsubo-of-blood",
       "flavor": "",
       "illustrator": "Piotr Arendzikowski",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/94/8b/948be825-b775-4af7-b130-c1b16c93a1fd/l5c38_tetsubo-of-blood.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_58.jpg",
       "position": "58",
+      "quantity": 3
+  },
+  {
+      "card_id": "disparaging-challenge",
+      "flavor": "",
+      "illustrator": "Andreia Ugrai",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_59.jpg",
+      "position": "59",
+      "quantity": 3
+  },
+  {
+      "card_id": "ki-alignment",
+      "flavor": "",
+      "illustrator": "Joshua Cairos",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_60.jpg",
+      "position": "60",
+      "quantity": 3
+  },
+  {
+      "card_id": "feeding-an-army",
+      "flavor": "",
+      "illustrator": "Carlos Palma Cruchaga",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_61.jpg",
+      "position": "61",
+      "quantity": 3
+  },
+  {
+      "card_id": "in-harmony",
+      "flavor": "",
+      "illustrator": "Mauro Dal Bo",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_62.jpg",
+      "position": "62",
       "quantity": 3
   },
   {
       "card_id": "sanguine-mastery",
       "flavor": "",
       "illustrator": "Carlos Diaz",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/3a/63/3a6367a5-ed57-45c1-85b7-c0c279721758/l5c38_sanguine-mastery.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_63.jpg",
       "position": "63",
       "quantity": 3
   },
@@ -75,15 +155,23 @@
       "card_id": "seize-the-mind",
       "flavor": "",
       "illustrator": "Jorge Matar",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/d7/05/d7051e7c-cd97-4969-896c-23a300cce2bc/l5c38_seize-the-mind.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_64.jpg",
       "position": "64",
+      "quantity": 3
+  },
+  {
+      "card_id": "command-the-tributary",
+      "flavor": "\"Should you invoke the spirit's Name, you shall divert the path of its destiny.\" Iuchi Daiyu",
+      "illustrator": "Pavel Kolomeyets",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_65.jpg",
+      "position": "65",
       "quantity": 3
   },
   {
       "card_id": "bonds-of-blood",
       "flavor": "",
       "illustrator": "Pavel Kolomeyets",
-      "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/70/4a/704a3156-f95e-40dc-afd8-d64c56b716c9/l5c38_bonds-of-blood.png",
+      "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_66.jpg",
       "position": "66",
       "quantity": 3
   }
