@@ -27,7 +27,7 @@
         "name": "Command the Tributary",
         "name_extra": null,
         "political": null,
-        "political_bonus": "+0",
+        "political_bonus": "+1",
         "role_restriction": null,
         "side": "conflict",
         "strength": null,
