@@ -26,7 +26,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Dire - While this character is participating in a conflict, reduce the cose to play each card in your hand by 1 <i>(to a minimum of 0)</i>.<i>(This character is dire when it has no fate on it.)</i>\n<b>Reaction:</b> After this character enters play - draw 2 cards.",
+        "text": "Dire - While this character is participating in a conflict, reduce the cost to play each card in your hand by 1 <i>(to a minimum of 0)</i>.<i>(This character is dire when it has no fate on it.)</i>\n<b>Reaction:</b> After this character enters play - draw 2 cards.",
         "traits": [
             "courtier",
             "merchant"
