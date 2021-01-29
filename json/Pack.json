@@ -351,6 +351,15 @@
         "cycle_id": "temptations"
     },
     {
+        "id": "peace-at-any-cost",
+        "name": "Peace at Any Cost",
+        "position": 6,
+        "size": 22,
+        "released_at": null,
+        "ffg_id": "L5C41",
+        "cycle_id": "temptations"
+    },
+    {
         "id": "draft-pack",
         "name": "Draft Pack",
         "position": 1,
