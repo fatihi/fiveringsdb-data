@@ -26,7 +26,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<em>Keeper</em> role only.\nCovert.\nDuring a conflict in which this character is participating, if this character is ordinary - switch each participating character's base [conflict-military] skill with its base [conflict-political] skill until the end of the conflict.",
+        "text": "<em>Keeper</em> role only.\nCovert.\n<b>Action:</b> During a conflict in which this character is participating, if this character is ordinary - switch each participating character's base [conflict-military] skill with its base [conflict-political] skill until the end of the conflict.",
         "traits": [
             "monk",
             "heretic"
