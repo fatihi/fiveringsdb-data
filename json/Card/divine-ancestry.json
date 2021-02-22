@@ -20,8 +20,10 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_banned": false,
+        "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
+        "is_restricted_in_jade": false,
         "military": null,
         "military_bonus": null,
         "name": "Divine Ancestry",
@@ -33,8 +35,7 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Earth</b> Role only.\n<b>Reaction:</b> After a phase begins - you cannot lose honor this phase.",
-        "traits": [
-        ],
+        "traits": [],
         "type": "event",
         "unicity": false
     }
