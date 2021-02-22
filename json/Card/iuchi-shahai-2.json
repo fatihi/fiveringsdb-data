@@ -14,8 +14,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
+        "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
+        "is_restricted_in_jade": false,
         "military": "2",
         "military_bonus": null,
         "name": "Iuchi Shahai",
@@ -26,7 +28,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "While you are the first player, this character gains covert.\n<b>Reaction:</b> After you play a <em>Meish≈çd≈ç</em> or <em>Mah≈ç</em> card, lose 1 honor - place 1 fate on this character.",
+        "text": "While you are the first player, this character gains covert.\n<b>Reaction:</b> After you play a <em>Meish≈?d≈?</em> or <em>Mah≈?</em> card, lose 1 honor - place 1 fate on this character.",
         "traits": [
             "shugenja",
             "water"

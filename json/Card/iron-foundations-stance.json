@@ -20,8 +20,10 @@
         "influence_cost": 1,
         "influence_pool": null,
         "is_banned": false,
+        "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
+        "is_restricted_in_jade": false,
         "military": null,
         "military_bonus": null,
         "name": "Iron Foundations Stance",
@@ -32,7 +34,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, choose a participating <em>Monk</em> character you control – until the end of the conflict, that character cannot be bowed or moved home by opponents' card effects. If you have played another <em>Kihō</em> in this conflict, draw 1 card.",
+        "text": "<b>Action:</b> During a conflict, choose a participating <em>Monk</em> character you control – until the end of the conflict, that character cannot be bowed or moved home by opponents' card effects. If you have played another <em>Kih�?</em> in this conflict, draw 1 card.",
         "traits": [
             "kiho",
             "earth"
