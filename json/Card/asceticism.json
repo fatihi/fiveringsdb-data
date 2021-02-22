@@ -20,10 +20,8 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_banned": false,
-        "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
-        "is_restricted_in_jade": false,
         "military": null,
         "military_bonus": "+1",
         "name": "Asceticism",
@@ -36,7 +34,7 @@
         "strength_bonus": null,
         "text": "<em>Earth</em> role only.\nWhile 2 or more of your non-stronghold provinces are facedown, attached character cannot be chosen as a target of an opponent's triggered abilities.",
         "traits": [
-            "condition"
+          "condition"
         ],
         "type": "attachment",
         "unicity": false

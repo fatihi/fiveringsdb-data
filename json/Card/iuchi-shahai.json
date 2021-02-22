@@ -14,10 +14,8 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
-        "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
-        "is_restricted_in_jade": false,
         "military": "2",
         "military_bonus": null,
         "name": "Iuchi Shahai",
@@ -28,7 +26,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Covert.\nReduce the cost by 1 to play each <em>Meish≈?d≈?</em> attachment on this character or a neutral character.",
+        "text": "Covert.\nReduce the cost by 1 to play each <em>Meish≈çd≈ç</em> attachment on this character or a neutral character.",
         "traits": [
             "shugenja",
             "water"
