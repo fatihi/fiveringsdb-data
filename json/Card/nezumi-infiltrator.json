@@ -20,8 +20,10 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_banned": false,
+        "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
+        "is_restricted_in_jade": false,
         "military": "1",
         "military_bonus": null,
         "name": "Nezumi Infiltrator",
@@ -32,7 +34,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Immune to <em>Shadowlands</em> and <em>Mahō</em> card effects.\n<b>Reaction:</b> After this character enters play during a conflict – until the end of the conflict, raise or lower the strength of the attacked province by 1 (to a minimum of 1). (Max 1 per conflict.)",
+        "text": "Immune to <em>Shadowlands</em> and <em>Mah�?</em> card effects.\n<b>Reaction:</b> After this character enters play during a conflict – until the end of the conflict, raise or lower the strength of the attacked province by 1 (to a minimum of 1). (Max 1 per conflict.)",
         "traits": [
             "creature",
             "scout"

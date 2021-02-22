@@ -20,8 +20,10 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_banned": false,
+        "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
+        "is_restricted_in_jade": false,
         "military": null,
         "military_bonus": null,
         "name": "Reconnaissance",
@@ -34,7 +36,7 @@
         "strength_bonus": null,
         "text": "<b>Reaction:</b> After the conflict phase begins, choose 3 provinces - look at each of those provinces <i>(if it is facedown)</i>. If you have at least 5 more honor than an ooponent, you may also discard any number of cards from those provinces.",
         "traits": [
-          "tactic"
+            "tactic"
         ],
         "type": "event",
         "unicity": false

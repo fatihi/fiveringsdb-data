@@ -1,13 +1,13 @@
 [
     {
         "allowed_clans": [
-          "crab",
-          "crane",
-          "dragon",
-          "lion",
-          "phoenix",
-          "scorpion",
-          "unicorn"
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
         ],
         "clan": "neutral",
         "cost": null,
@@ -20,8 +20,10 @@
         "influence_cost": null,
         "influence_pool": 10,
         "is_banned": false,
+        "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
+        "is_restricted_in_jade": false,
         "military": null,
         "military_bonus": null,
         "name": "Closed Shell Castle",
