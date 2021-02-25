@@ -20,7 +20,7 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_banned": true,
-        "is_banned_in_jade": false,
+        "is_banned_in_jade": true,
         "is_banned_in_skirmish": true,
         "is_restricted": false,
         "is_restricted_in_jade": false,
