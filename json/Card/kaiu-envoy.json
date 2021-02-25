@@ -17,7 +17,7 @@
         "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
-        "is_restricted_in_jade": false,
+        "is_restricted_in_jade": true,
         "military": "1",
         "military_bonus": null,
         "name": "Kaiu Envoy",
