@@ -8,20 +8,44 @@
       "quantity": 1
   },
   {
+      "card_id": "golden-plains",
+      "flavor": "",
+      "illustrator": "Carlos Palma Cruchaga",
+      "image_url": "",
+      "position": "110",
+      "quantity": 1
+  },
+  {
       "card_id": "lord-s-ascendancy",
       "flavor": "",
-      "illustrator": "TODO",
+      "illustrator": "Borja Pindado",
       "image_url": "",
       "position": "111",
       "quantity": 1
   },
   {
+      "card_id": "midnight-builder",
+      "flavor": "",
+      "illustrator": "Andreia Ugrai",
+      "image_url": "",
+      "position": "112",
+      "quantity": 3
+  },
+  {
       "card_id": "doom-thrower",
       "flavor": "",
-      "illustrator": "TODO",
+      "illustrator": "Hai Hoang",
       "image_url": "",
       "position": "113",
-      "quantity": 1
+      "quantity": 3
+  },
+  {
+      "card_id": "daidoji-iron-warrior",
+      "flavor": "\"We may be outnumbered, but we will never be outmatched.\"",
+      "illustrator": "Imad Awan",
+      "image_url": "",
+      "position": "114",
+      "quantity": 3
   },
   {
       "card_id": "furtive-sympathizer",
@@ -37,6 +61,14 @@
       "illustrator": "Nele Diel",
       "image_url": "",
       "position": "116",
+      "quantity": 3
+  },
+  {
+      "card_id": "ikoma-ujiaki-2",
+      "flavor": "\"Our service to the throne has never wavered.\"",
+      "illustrator": "Surya Prasetya",
+      "image_url": "",
+      "position": "117",
       "quantity": 3
   },
   {
@@ -56,11 +88,43 @@
       "quantity": 3
   },
   {
+      "card_id": "underhanded-samurai",
+      "flavor": "\"Confront only your enemy's weaknesses, never their strengths.\" - Bayushi's Lies",
+      "illustrator": "Drew Baker",
+      "image_url": "",
+      "position": "120",
+      "quantity": 3
+  },
+  {
+      "card_id": "moto-conqueror",
+      "flavor": "On the distant Plain of Wind and Stone, Shinjo's followers learned new gaijin ways to ride, to hunt and to fight from horseback. Bolstered by the nomadic Ujik who joined them, the Unicorn clan survived, flourished, and returned to Rokugan, their duty to Hantei achieved.",
+      "illustrator": "Imad Awan",
+      "image_url": "",
+      "position": "121",
+      "quantity": 3
+  },
+  {
       "card_id": "at-any-cost",
       "flavor": "",
-      "illustrator": "TODO",
+      "illustrator": "Francesca Baerald",
       "image_url": "",
       "position": "122",
+      "quantity": 3
+  },
+  {
+      "card_id": "dutiful-assistant",
+      "flavor": "",
+      "illustrator": "IFS",
+      "image_url": "",
+      "position": "123",
+      "quantity": 3
+  },
+  {
+      "card_id": "Setting the Standard",
+      "flavor": "",
+      "illustrator": "Isuardi Therianto",
+      "image_url": "",
+      "position": "124",
       "quantity": 3
   },
   {
@@ -69,6 +133,46 @@
       "illustrator": "Guillaume Ducos",
       "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/4a/49/4a495a62-082d-4a70-af8c-5f0bedf19040/l5c41_belief-in-the-little-teacher.png",
       "position": "125",
+      "quantity": 3
+  },
+  {
+      "card_id": "ujiaki-s-offer",
+      "flavor": "",
+      "illustrator": "Kanadekana",
+      "image_url": "",
+      "position": "126",
+      "quantity": 3
+  },
+  {
+      "card_id": "a-war-on-two-fronts",
+      "flavor": "",
+      "illustrator": "Francesca Baerald",
+      "image_url": "",
+      "position": "127",
+      "quantity": 3
+  },
+  {
+      "card_id": "cleanse-the-empire",
+      "flavor": "",
+      "illustrator": "Imad Awan",
+      "image_url": "",
+      "position": "128",
+      "quantity": 3
+  },
+  {
+      "card_id": "subterfuge",
+      "flavor": "",
+      "illustrator": "Drazenka Kimpel",
+      "image_url": "",
+      "position": "129",
+      "quantity": 3
+  },
+  {
+      "card_id": "ride-on",
+      "flavor": "\"Why would we settle down like some indulgent Bayushi, when we draw strength from our unique freedom?\" - Moto Rurame",
+      "illustrator": "Carlos Palma Cruchaga",
+      "image_url": "",
+      "position": "130",
       "quantity": 3
   }
 ]
