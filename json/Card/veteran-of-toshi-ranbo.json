@@ -14,7 +14,7 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
-        "is_banned_in_jade": "No attachmants except <em>Weapon</em>. Rally.\n<b>Forced Reaction:</b> After this character loses a conflict - your opponent may move 1 fate from their fate pool to this character. If they do, they gain control of it. (Unlimited.)",
+        "is_banned_in_jade": false,
         "is_banned_in_skirmish": false,
         "is_restricted": false,
         "is_restricted_in_jade": false,
