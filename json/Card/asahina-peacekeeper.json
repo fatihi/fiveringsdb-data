@@ -28,7 +28,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<em>Seeker</em> role only.\nLimited.\nAs an additional cost for a player to declare a character as an attacker during a conflict, that player must discard 1 card from their hand.",
+        "text": "<em>Seeker</em> role only.\nLimited.\nAs an additional cost for a player to declare a character as an attacker during a [conflict-military] conflict, that player must discard 1 card from their hand.",
         "traits": [
             "shugenja",
             "air"
