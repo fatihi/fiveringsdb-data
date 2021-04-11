@@ -346,7 +346,7 @@
         "name": "Coils of Power",
         "position": 5,
         "size": 22,
-        "released_at": null,
+        "released_at": "2021-04-10",
         "ffg_id": "L5C40",
         "cycle_id": "temptations"
     },
@@ -355,7 +355,7 @@
         "name": "Peace at Any Cost",
         "position": 6,
         "size": 22,
-        "released_at": null,
+        "released_at": "2021-04-10",
         "ffg_id": "L5C41",
         "cycle_id": "temptations"
     },
