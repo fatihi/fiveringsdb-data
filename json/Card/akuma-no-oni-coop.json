@@ -24,7 +24,7 @@
         "political": "2",
         "political_bonus": null,
         "role_restriction": null,
-        "side": "dynasty",
+        "side": "province",
         "strength": null,
         "strength_bonus": null,
         "text": "Corrupted. No non-[clan-shadowlands] attachments.\n<b>Reaction:</b> After you collect fate in the dynasty phase, each opponent chooses a non-[clan-shadowlands] character with three or lower [conflict-military] skill - bow each chosen character.",
@@ -32,7 +32,7 @@
             "oni",
             "champion"
         ],
-        "type": "character",
+        "type": "warlord",
         "unicity": false
     }
 ]
