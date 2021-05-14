@@ -9,15 +9,15 @@
             "scorpion",
             "unicorn"
         ],
-        "clan": "neutral",
-        "cost": "0",
+        "clan": "dragon",
+        "cost": "1",
         "deck_limit": 3,
         "element": [],
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "exposed-secrets",
-        "influence_cost": 0,
+        "id": "swell-of-seafoam",
+        "influence_cost": 2,
         "influence_pool": null,
         "is_banned": false,
         "is_banned_in_jade": false,
@@ -26,7 +26,7 @@
         "is_restricted_in_jade": false,
         "military": null,
         "military_bonus": null,
-        "name": "Exposed Secrets",
+        "name": "Swell of Seafoam",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
@@ -34,8 +34,11 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a [conflict-politcal] conflict, choose a participating character with [conflict-political] skill equal to or lower than its controller's honor bid - bow that character.",
-        "traits": [],
+        "text": "Support. <i>(Another player may help pay this card's fate cost.)</i>\n<b>Action:</b> During a conflict, choose a participating <em>Monk</em> character – that character does not bow as the result of this conflict's resolution. If you have played another <em>Kihō</em> in this conflict, also honor that character.",
+        "traits": [
+            "kiho",
+            "water"
+        ],
         "type": "event",
         "unicity": false
     }

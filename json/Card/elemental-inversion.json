@@ -9,15 +9,15 @@
             "scorpion",
             "unicorn"
         ],
-        "clan": "neutral",
+        "clan": "phoenix",
         "cost": "0",
         "deck_limit": 3,
         "element": [],
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "exposed-secrets",
-        "influence_cost": 0,
+        "id": "elemental-inversion",
+        "influence_cost": 1,
         "influence_pool": null,
         "is_banned": false,
         "is_banned_in_jade": false,
@@ -26,7 +26,7 @@
         "is_restricted_in_jade": false,
         "military": null,
         "military_bonus": null,
-        "name": "Exposed Secrets",
+        "name": "Elemental Inversion",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
@@ -34,8 +34,11 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a [conflict-politcal] conflict, choose a participating character with [conflict-political] skill equal to or lower than its controller's honor bid - bow that character.",
-        "traits": [],
+        "text": "<b>Action:</b> During a conflict, choose a ring - move all fate from the chosen ring to the contested ring and switch them. <i>(The chosen ring is now contested.)</i>",
+        "traits": [
+            "spell",
+            "void"
+        ],
         "type": "event",
         "unicity": false
     }

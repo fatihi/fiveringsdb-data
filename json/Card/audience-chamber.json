@@ -10,14 +10,14 @@
             "unicorn"
         ],
         "clan": "neutral",
-        "cost": "0",
+        "cost": null,
         "deck_limit": 3,
         "element": [],
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "exposed-secrets",
-        "influence_cost": 0,
+        "id": "audience-chamber",
+        "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
         "is_banned_in_jade": false,
@@ -26,17 +26,19 @@
         "is_restricted_in_jade": false,
         "military": null,
         "military_bonus": null,
-        "name": "Exposed Secrets",
+        "name": "Audience Chamber",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "conflict",
+        "side": "dynasty",
         "strength": null,
-        "strength_bonus": null,
-        "text": "<b>Action:</b> During a [conflict-politcal] conflict, choose a participating character with [conflict-political] skill equal to or lower than its controller's honor bid - bow that character.",
-        "traits": [],
-        "type": "event",
+        "strength_bonus": "+2",
+        "text": "<b>Reaction:</b> After you play a character with printed cost 4 or higher - place 1 fate on it.",
+        "traits": [
+            "castle"
+        ],
+        "type": "holding",
         "unicity": false
     }
 ]
