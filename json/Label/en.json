@@ -372,6 +372,10 @@
         "value": "Nezumi"
     },
     {
+        "id": "trait.ogre",
+        "value": "Ogre"
+    },
+    {
         "id": "trait.omen",
         "value": "Omen"
     },
@@ -406,6 +410,10 @@
     {
         "id": "trait.quest",
         "value": "Quest"
+    },
+    {
+        "id": "trait.rakshasa",
+        "value": "Rakshasa"
     },
     {
         "id": "trait.ritual",
@@ -510,6 +518,10 @@
     {
         "id": "trait.trap",
         "value": "Trap"
+    },
+	{
+        "id": "trait.undead",
+        "value": "Undead"
     },
 	{
         "id": "trait.unicorn",
