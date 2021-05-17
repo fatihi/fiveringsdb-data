@@ -372,6 +372,10 @@
         "value": "Nezumi"
     },
     {
+        "id": "trait.obsidian",
+        "value": "Obsidian"
+    },
+    {
         "id": "trait.ogre",
         "value": "Ogre"
     },
