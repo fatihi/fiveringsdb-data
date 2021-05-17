@@ -30,7 +30,7 @@
         "side": "province",
         "strength": "3",
         "strength_bonus": null,
-        "text": "<b>Reaction: After a conflict is declared against this province - each opponent discards their hand and draws that many cards.",
+        "text": "<b>Reaction:</b>  After a conflict is declared against this province - each opponent discards their hand and draws that many cards.",
         "traits": [],
         "type": "province",
         "unicity": true

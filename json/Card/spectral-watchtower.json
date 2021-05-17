@@ -30,7 +30,7 @@
         "side": "province",
         "strength": "4",
         "strength_bonus": null,
-        "text": "<b>Reaction: After a conflict is declared against this province - take 1 fate from each opponent.",
+        "text": "<b>Reaction:</b>  After a conflict is declared against this province - take 1 fate from each opponent.",
         "traits": [],
         "type": "province",
         "unicity": false

@@ -30,7 +30,7 @@
         "side": "province",
         "strength": "4",
         "strength_bonus": null,
-        "text": "<b>Reaction: After a conflict is declared against this province, choose a character in your dynasty discard pile - put that character into play in the conflict as a defender. Place 1 (per opponent) fate on it",
+        "text": "<b>Reaction:</b>  After a conflict is declared against this province, choose a character in your dynasty discard pile - put that character into play in the conflict as a defender. Place 1 (per opponent) fate on it",
         "traits": [],
         "type": "province",
         "unicity": true

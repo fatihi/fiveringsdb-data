@@ -30,7 +30,7 @@
         "side": "province",
         "strength": "5",
         "strength_bonus": null,
-        "text": "<b>Reaction: After a conflict is declared against this province, choose an unclaimed ring - resolve the contested ring's effect and claim it. The chosen ring is now the constested ring.",
+        "text": "<b>Reaction:</b>  After a conflict is declared against this province, choose an unclaimed ring - resolve the contested ring's effect and claim it. The chosen ring is now the constested ring.",
         "traits": [],
         "type": "province",
         "unicity": true

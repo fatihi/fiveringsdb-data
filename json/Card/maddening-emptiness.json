@@ -30,7 +30,7 @@
         "side": "province",
         "strength": "2",
         "strength_bonus": null,
-        "text": "<b>Reaction: After a conflict is declared against this province, choose up to 1 attacking character by controlled by each opponent - bow each chosen character.",
+        "text": "<b>Reaction:</b>  After a conflict is declared against this province, choose up to 1 attacking character by controlled by each opponent - bow each chosen character.",
         "traits": [],
         "type": "province",
         "unicity": false

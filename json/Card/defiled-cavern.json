@@ -30,7 +30,7 @@
         "side": "province",
         "strength": "5",
         "strength_bonus": null,
-        "text": "<b>Reaction: After a conflict is declared against this province - place 2 (per opponent) random characters in your dynasty discard pile on the bottom of your dynasty deck.",
+        "text": "<b>Reaction:</b>  After a conflict is declared against this province - place 2 (per opponent) random characters in your dynasty discard pile on the bottom of your dynasty deck.",
         "traits": [],
         "type": "province",
         "unicity": false
