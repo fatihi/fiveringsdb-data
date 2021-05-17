@@ -3,16 +3,13 @@
         "allowed_clans": [
         ],
         "clan": "shadowlands",
-        "cost": null,
-        "deck_limit": 1,
-        "element": [
-            "void",
-            "water"
-        ],
+        "cost": "5",
+        "deck_limit": 3,
+        "element": [],
         "fate": null,
-        "glory": null,
+        "glory": 1,
         "honor": null,
-        "id": "fallen-chrysanthemum-lake",
+        "id": "chieftain-fouleye",
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
@@ -20,19 +17,22 @@
         "is_banned_in_skirmish": false,
         "is_restricted": false,
         "is_restricted_in_jade": false,
-        "military": null,
+        "military": "7",
         "military_bonus": null,
-        "name": "Fallen Chrysanthemum Lake",
+        "name": "Chieftain Fouleye",
         "name_extra": null,
-        "political": null,
+        "political": "4",
         "political_bonus": null,
         "role_restriction": null,
-        "side": "province",
-        "strength": "3",
+        "side": "dynasty",
+        "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b>  After a conflict is declared against this province - each opponent discards their hand and draws that many cards.",
-        "traits": [],
-        "type": "province",
+        "text": "Reduce the cost to play each [clan-shadowlands] <em>Goblin</em> by 1.\nEach other [clan-shadowlands] <em>Goblin</em> gets +2[conflict-political]",
+        "traits": [
+            "bushi",
+            "goblin"
+        ],
+        "type": "character",
         "unicity": true
     }
 ]

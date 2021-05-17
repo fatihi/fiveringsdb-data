@@ -4,15 +4,12 @@
         ],
         "clan": "shadowlands",
         "cost": null,
-        "deck_limit": 1,
-        "element": [
-            "air",
-            "void"
-        ],
+        "deck_limit": 3,
+        "element": [],
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "spectral-watchtower",
+        "id": "killing-field",
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
@@ -22,17 +19,19 @@
         "is_restricted_in_jade": false,
         "military": null,
         "military_bonus": null,
-        "name": "Spectral Watchtower",
+        "name": "Killing Field",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "province",
-        "strength": "4",
-        "strength_bonus": null,
-        "text": "<b>Reaction:</b>  After a conflict is declared against this province - take 1 fate from each opponent.",
-        "traits": [],
-        "type": "province",
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": "+1",
+        "text": "<b>Interrupt:</b> When the conflict phase ends - discard each card from each opponent's provinces.",
+        "traits": [
+            "battlefield"
+        ],
+        "type": "holding",
         "unicity": false
     }
 ]

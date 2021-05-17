@@ -3,16 +3,13 @@
         "allowed_clans": [
         ],
         "clan": "shadowlands",
-        "cost": null,
-        "deck_limit": 1,
-        "element": [
-            "void",
-            "water"
-        ],
+        "cost": "6",
+        "deck_limit": 3,
+        "element": [],
         "fate": null,
-        "glory": null,
+        "glory": 0,
         "honor": null,
-        "id": "fallen-chrysanthemum-lake",
+        "id": "gashadokuro",
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
@@ -20,19 +17,21 @@
         "is_banned_in_skirmish": false,
         "is_restricted": false,
         "is_restricted_in_jade": false,
-        "military": null,
+        "military": "9",
         "military_bonus": null,
-        "name": "Fallen Chrysanthemum Lake",
+        "name": "Gashadokuro",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "province",
-        "strength": "3",
+        "side": "dynasty",
+        "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b>  After a conflict is declared against this province - each opponent discards their hand and draws that many cards.",
-        "traits": [],
-        "type": "province",
+        "text": "Corrupted. No non-[clan-shadowlands] attachments.\nThis character cannot be evaded by the covert keyword.\n<b>Reaction:</b> After an opponent declares a [conflict-military] conflict against one of your provinces - ready this character.",
+        "traits": [
+            "undead"
+        ],
+        "type": "character",
         "unicity": true
     }
 ]

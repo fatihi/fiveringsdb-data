@@ -3,16 +3,13 @@
         "allowed_clans": [
         ],
         "clan": "shadowlands",
-        "cost": null,
-        "deck_limit": 1,
-        "element": [
-            "air",
-            "void"
-        ],
+        "cost": "4",
+        "deck_limit": 3,
+        "element": [],
         "fate": null,
-        "glory": null,
+        "glory": 0,
         "honor": null,
-        "id": "spectral-watchtower",
+        "id": "the-butcher-of-ishigaki",
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
@@ -20,19 +17,21 @@
         "is_banned_in_skirmish": false,
         "is_restricted": false,
         "is_restricted_in_jade": false,
-        "military": null,
+        "military": "7",
         "military_bonus": null,
-        "name": "Spectral Watchtower",
+        "name": "The Butcher of Ishigaki",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "province",
-        "strength": "4",
+        "side": "dynasty",
+        "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b>  After a conflict is declared against this province - take 1 fate from each opponent.",
-        "traits": [],
-        "type": "province",
-        "unicity": false
+        "text": "Corrupted. No non-[clan-shadowlands] attachments.\nWhile this character is attacking, at least one character controlled by each opponent must be declared as a defender, if able.",
+        "traits": [
+            "oni"
+        ],
+        "type": "character",
+        "unicity": true
     }
 ]

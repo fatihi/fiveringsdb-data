@@ -30,7 +30,7 @@
         "side": "province",
         "strength": "7",
         "strength_bonus": null,
-        "text": "<b>Reaction: After a conflict is declared against this province, choose up to 1 ready character in each opponent's home - move each of those characters to the conflict.",
+        "text": "<b>Reaction:</b>  After a conflict is declared against this province, choose up to 1 ready character in each opponent's home - move each of those characters to the conflict.",
         "traits": [],
         "type": "province",
         "unicity": false

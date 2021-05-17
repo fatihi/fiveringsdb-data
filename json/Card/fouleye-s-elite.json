@@ -3,16 +3,13 @@
         "allowed_clans": [
         ],
         "clan": "shadowlands",
-        "cost": null,
-        "deck_limit": 1,
-        "element": [
-            "air",
-            "void"
-        ],
+        "cost": "3",
+        "deck_limit": 3,
+        "element": [],
         "fate": null,
-        "glory": null,
+        "glory": 0,
         "honor": null,
-        "id": "spectral-watchtower",
+        "id": "fouleye-s-elite",
         "influence_cost": null,
         "influence_pool": null,
         "is_banned": false,
@@ -20,19 +17,21 @@
         "is_banned_in_skirmish": false,
         "is_restricted": false,
         "is_restricted_in_jade": false,
-        "military": null,
+        "military": "4",
         "military_bonus": null,
-        "name": "Spectral Watchtower",
+        "name": "Fouleye's Elite",
         "name_extra": null,
-        "political": null,
+        "political": "2",
         "political_bonus": null,
         "role_restriction": null,
-        "side": "province",
-        "strength": "4",
+        "side": "dynasty",
+        "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b>  After a conflict is declared against this province - take 1 fate from each opponent.",
-        "traits": [],
-        "type": "province",
+        "text": "<b>Reaction:</b> After this character wins a conflict, choose a character an oppontn controls with equal or lower [conflict-military] skill than this character - bow the chosen character.",
+        "traits": [
+            "goblin"
+        ],
+        "type": "character",
         "unicity": false
     }
 ]
