@@ -34,7 +34,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, choose a participating character with 1 or more status tokens on it - set its base [conflict-military] and [conflict-political] skills to 0 until the end of the conflict. If that character is tainted, also remove 1 fate from it.",
+        "text": "Play only if you control a <em>Shugenja</em> character.\n<b>Action:</b> During a conflict, choose a participating character with 1 or more status tokens on it - set its base [conflict-military] and [conflict-political] skills to 0 until the end of the conflict. If that character is tainted, also remove 1 fate from it.",
         "traits": [
             "jade",
             "spell",
