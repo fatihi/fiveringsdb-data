@@ -28,7 +28,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you play an event during a conflict in which attached character is participating, choose a participating character with printed cost 3 or lower. Its controller selects one - either bow that character or move it home.",
+        "text": "<b>Reaction:</b> After you play an event during a conflict in which this character is participating, choose a participating character with printed cost 3 or lower. Its controller selects one - either bow that character or move it home.",
         "traits": [
             "bushi",
             "shinobi"
